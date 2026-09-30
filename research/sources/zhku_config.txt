@@ -1,0 +1,5 @@
+var ipConfig = {
+    sch_school_id:'30284',
+    url:'https://study.jobpi.cn/index.php',
+    stu_url:'https://job-web-api.jobpi.cn',
+}

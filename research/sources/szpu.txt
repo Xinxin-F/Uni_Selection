@@ -1,0 +1,524 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>深圳职业技术大学2026年普通高等学校专升本招生简章-深圳职业技术大学招生信息网</title><META Name="keywords" Content="深圳职业技术大学,深圳职业技术学院,深职大,深职院,高职院,招生信息网,招生网,自主招生,招生动态,深圳,职业技术,职业,技术,大学,2026,20,普通,高等学校,高等,学校,专升本,招生简章,招生,简章" />
+<META Name="description" Content="为贯彻落实教育部有关文件精神，按照《广东省2026年普通高等学校专升本招生工作规定》（粤招办普〔2025〕51号）文件要求，现制定深圳职业技术大学2026年普通高等学校专升本招生简章。一、招生对象及报考条件（一）招生对象遵守中华人民共和国宪法和法律，身体状况符合相关要求，并符合下列条件之一：1．具有广东省户籍的普通高校应届专科毕业生。2．具有广东省户籍，且在报名时具有广东省户籍连续满3年（未满3年的，需在广东省..." />
+
+<link rel="stylesheet" type="text/css" href="../../css/style.css" />
+<script type="text/javascript" src="../../js/jquery.min.js"></script>
+<script type="text/javascript" src="../../js/ddsmoothmenu.js"></script>
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../../_sitegray/_sitegray_d.css" />
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c78475d50525742000000004457 -->
+<link rel="stylesheet" type="text/css" href="../../content.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" devices="pc|mobile|pad"></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1018,'/content.jsp',3200,1438415316)</script>
+</head>
+<body>
+<div id="wrapper"> 
+  <!--head start-->
+	<div class="xian_top"></div>  
+  <!--head start-->
+  <div class="topda">
+				<div class="top">
+					<div class="logo fl">
+						
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<img src="../../images/logo.png" width="440" height="56" border="0" alt="招生信息网" title="招生信息网">
+					</div>
+					<div class="sousuo fr">
+						<script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode199213').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkey199213").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkey199213").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkey199213").value = base64.encode(document.getElementById("lucenenewssearchkey199213").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode199213"));
+        return true;
+    } 
+</script>
+<form action="../../ssjgy.jsp?wbtreeid=1018" method="post" id="au1a" name="au1a" onsubmit="return _nl_ys_check()" style="display: inline">
+ <input type="hidden" id="lucenenewssearchkey199213" name="lucenenewssearchkey" value=""><input type="hidden" id="_lucenesearchtype199213" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope199213" name="searchScope" value="0">
+<input type="text" name="showkeycode" id="showkeycode199213" class="sou fl" value="输入搜索关键字" onfocus="if (value =='输入搜索关键字'){value =''};this.style.color='#ffffff';" onblur="if (value ==''){value='输入搜索关键字'};this.style.color='#e2e1e1';" style="vertical-align: middle; color: #e2e1e1;">
+<input type="image" src="../../images/ssan.png" class="suo fr">
+
+</form><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+
+					</div>
+				</div>
+
+				<div id="smoothmenu1" class="ddsmoothmenu">
+					<ul>
+		<li>
+		<a href="../../index.htm">首页</a>
+		<ul>
+			<li>
+				<a href="../../index/xxjj.htm">学校简介</a>
+			</li>
+			<li>
+				<a href="../../index/bxry.htm">办学荣誉</a>
+			</li>
+			<li>
+				<a href="../../index/zzzc.htm">资助政策</a>
+			</li>
+			<li>
+				<a href="https://jiuye.szpu.edu.cn/">就业信息</a>
+			</li>
+			<li>
+				<a href="http://www.lib.szpt.edu.cn/xzfc/">学者风采</a>
+			</li>
+		</ul>
+	</li>
+	<li>
+		<a href="../../zszn/zszc.htm" class="cur">招生指南</a>
+		<ul>
+			<li>
+				<a href="../../zszn/zszc.htm">招生政策</a>
+			</li>
+			<li>
+				<a href="../../zszn/zsjh.htm">招生计划</a>
+			</li>
+			<li>
+				<a href="../../zszn/lnlqfs.htm">历年录取分数</a>
+			</li>
+			<li>
+				<a href="../../zszn/dksw.htm">答考生问</a>
+			</li>
+			<li>
+				<a href="../../zszn/zsdt.htm">招生动态</a>
+			</li>
+		</ul>
+	</li>
+	<li>
+		<a href="../../flzs/xkzs.htm">分类招生</a>
+		<ul>
+			<li>
+				<a href="../../flzs/xkzs.htm">学考招生</a>
+			</li>
+			<li>
+				<a href="../../flzs/sjzs.htm">3＋证书</a>
+			</li>
+			<li>
+				<a href="../1061/1931.htm">自主招生</a>
+			</li>
+			<li>
+				<a href="../../flzs/sefd.htm">三二分段</a>
+			</li>
+		</ul>
+	</li>
+	<li>
+		<a href="../../bkzyjs.htm">本科专业</a>
+		<ul>
+			<li>
+				<a href="../../bkzyjs/bkzyyl.htm">◆本科专业一览◆</a>
+			</li>
+			<li>
+				<a href="../../bkzyjs/bkjyxy.htm">本科教育学院</a>
+			</li>
+			<li>
+				<a href="../../bkzyjs/jcdlxy.htm">集成电路学院</a>
+			</li>
+			<li>
+				<a href="../../bkzyjs/rgznxy.htm">人工智能学院</a>
+			</li>
+			<li>
+				<a href="../../bkzyjs/wljsxy.htm">未来技术学院</a>
+			</li>
+			<li>
+				<a href="../../bkzyjs/cxcysjxy_bk.htm">创新创意设计学院</a>
+			</li>
+			<li>
+				<a href="../../bkzyjs/jdgcxy_bk.htm">机电工程学院</a>
+			</li>
+			<li>
+				<a href="../../bkzyjs/qcyjtxy_bk.htm">汽车与交通学院</a>
+			</li>
+			<li>
+				<a href="../../bkzyjs/spypxy_bk.htm">食品药品学院</a>
+			</li>
+			<li>
+				<a href="../../bkzyjs/clyhjgcxy_bk.htm">材料与环境工程学院</a>
+			</li>
+		</ul>
+	</li>
+	<li>
+		<a href="../../zkzyjs.htm">专科专业</a>
+		<ul>
+			<li>
+				<a href="../../zkzyjs/zkzyyl.htm">◆专科专业一览◆</a>
+			</li>
+			<li>
+				<a href="../../zkzyjs/cxcysjxy.htm">创新创意设计学院</a>
+			</li>
+			<li>
+				<a href="../../zkzyjs/dzytxgcxy.htm">电子与通信工程学院</a>
+			</li>
+			<li>
+				<a href="../../zkzyjs/rgznxy.htm">人工智能学院</a>
+			</li>
+			<li>
+				<a href="../../zkzyjs/jdgcxy.htm">机电工程学院</a>
+			</li>
+			<li>
+				<a href="../../zkzyjs/qcyjtxy.htm">汽车与交通学院</a>
+			</li>
+			<li>
+				<a href="../../zkzyjs/jzgcxy.htm">建筑工程学院</a>
+			</li>
+			<li>
+				<a href="../../zkzyjs/spypxy.htm">食品药品学院</a>
+			</li>
+			<li>
+				<a href="../../zkzyjs/clyhjgcxy.htm">材料与环境工程学院</a>
+			</li>
+			<li>
+				<a href="../../zkzyjs/szcmxy.htm">数字传媒学院</a>
+			</li>
+			<li>
+				<a href="../../zkzyjs/jjxy.htm">经济学院</a>
+			</li>
+			<li>
+				<a href="../../zkzyjs/glxy.htm">管理学院</a>
+			</li>
+			<li>
+				<a href="../../zkzyjs/swwyxy.htm">商务外语学院</a>
+			</li>
+			<li>
+				<a href="../../zkzyjs/yxjsyhlxy.htm">医学技术与护理学院</a>
+			</li>
+			<li>
+				<a href="../../zkzyjs/zyjsjyxy.htm">职业技术教育学院</a>
+			</li>
+		</ul>
+	</li>
+	<li>
+		<a href="../../lqcx.htm">录取查询</a>
+	</li>
+	<li>
+		<a href="../../xsrx.htm">新生入学</a>
+	</li>
+	<li>
+		<a href="../../lxwm.htm">联系我们</a>
+	</li>
+</ul>
+				</div>
+				<script type="text/javascript">
+					ddsmoothmenu.init({
+						mainmenuid: "smoothmenu1", //menu DIV id
+						orientation: 'h', //Horizontal or vertical menu: Set to "h" or "v"
+						classname: 'ddsmoothmenu', //class added to menu's outer DIV
+						//customtheme: ["#1c5a80", "#18374a"],
+						contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
+					})
+				</script>
+			</div>
+  
+ 
+  
+  <!--head end--> 
+  <!--main start-->
+  <div class="main-wrap">
+  
+  <div class="main ">
+      <div class="dhxt">
+						    <script language="javascript" src="/system/resource/js/dynclicks.js"></script>        <img src="../../images/listbanner.png">
+
+					</div>
+					<div class="list_tit">
+							<div class="list_tit1">
+								  <div class="zbg fl"><img src="../../images/lmmcqdt.png" /></div>
+								  <div class="lmmc fl">
+                                  
+
+
+
+招生动态
+                                  </div>								  
+							</div>
+							<div class="list_right_tit clearfix">
+								<span class="location">
+                                <a href="../../index.htm">首页</a>><a href="../../zszn/zszc.htm">招生指南</a>><a href="../../zszn/zsdt.htm">招生动态</a>>正文
+                                </span>
+							</div>
+			</div>   
+      <div class="list-bg clearfix">
+        <div class="list_bottom_left fl">					
+								
+								<!--二级导航-->
+								<div class="menu_2">
+									<ul>
+		<li>
+		<a href="../../zszn/zszc.htm">招生政策</a>
+	</li>
+	<li>
+		<a href="../../zszn/zsjh.htm">招生计划</a>
+	</li>
+	<li>
+		<a href="../../zszn/lnlqfs.htm">历年录取分数</a>
+	</li>
+	<li>
+		<a href="../../zszn/dksw.htm">答考生问</a>
+	</li>
+	<li>
+		<a class="level1" href="../../zszn/zsdt.htm">招生动态</a>
+	</li>
+</ul>
+									<div class="ejxt">
+										            <img src="../../images/listejxt.jpg">
+
+									</div>
+
+								</div>
+								<!--二级导航结束-->							
+						</div>
+        <div class="list_right fr">
+          <div class="content_right_con">
+             
+<script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script><script language="javascript" src="../../_dwr/engine.js"></script><script language="javascript" src="/system/resource/js/news/newscontent.js"></script><script type="text/javascript">NewsvoteDWR.getNewsLinkUrl(3200,'1438415316','vsb',newsSkip);function newsSkip(data){if(data != ""){window.location.href = data;}}</script><script language="javascript" src="/system/resource/js/ajax.js"></script><form name="_newscontent_fromname"><script language="javascript" src="/system/resource/js/jquery/jquery-latest.min.js"></script>
+<div class="con1">
+	深圳职业技术大学2026年普通高等学校专升本招生简章
+     </div>
+     	 	  <div class="con11">
+     	 	  	
+     	 	  </div>
+     	 	  <div class="con2">
+     	 	  	发布日期：2026-01-04 &nbsp;  浏览：<script>_showDynClicks("wbnews", 1438415316, 3200)</script> 次
+     	 	  </div>
+    <div class="con3" id="vsb_content"><div class="v_news_content">
+<p style="text-indent:32px"><span style="font-size:16px">为贯彻落实教育部有关文件精神，按照《广东省<span lang="EN-US">2026</span>年普通高等学校专升本招生工作规定》（粤招办普〔<span lang="EN-US">2025</span>〕<span lang="EN-US">51</span>号）文件要求，现制定深圳职业技术大学<span lang="EN-US">2026</span>年普通高等学校专升本招生简章。</span></p>
+<p style="text-indent:32px"><span style="font-size:16px"><br></span></p>
+<p style="text-indent:37px"><strong><span style="font-size:19px">一、招生对象及报考条件</span></strong></p>
+<p style="text-indent:32px"><strong><span style="font-size:16px">（一）招生对象</span></strong></p>
+<p style="text-indent:32px"><span style="font-size:16px">遵守中华人民共和国宪法和法律，身体状况符合相关要求，并符合下列条件之一：</span></p>
+<p style="text-indent:32px"><span lang="EN-US" style="font-size:16px">1<span style="font-size: 16px; text-indent: 32px; text-wrap-mode: wrap;">．</span></span><span style="font-size:16px">具有广东省户籍的普通高校应届专科毕业生。</span></p>
+<p style="text-indent:32px"><span lang="EN-US" style="font-size:16px">2<span style="font-size: 16px; text-indent: 32px; text-wrap-mode: wrap;">．</span></span><span style="font-size:16px">具有广东省户籍，且在报名时具有广东省户籍连续满<span lang="EN-US">3</span>年（未满<span lang="EN-US">3</span>年的，需在广东省参加普通高考且高考报名时为广东户籍）的普通高校往届专科毕业生。</span></p>
+<p style="text-indent:32px"><span lang="EN-US" style="font-size:16px">3<span style="font-size: 16px; text-indent: 32px; text-wrap-mode: wrap;">．</span></span><span style="font-size:16px">具有广东省户籍，且在报名时具有广东省户籍连续满<span lang="EN-US">3</span>年，同时在我省依法参加社会保险（仅限基本医疗保险、基本养老保险）缴费累计<span lang="EN-US">1</span>年以上（含<span lang="EN-US">1</span>年），在截止日期前取得国家承认学历的专科毕业生（含成人教育、自学考试、网络教育，毕业证书落款日期在<span lang="EN-US">2026</span>年<span lang="EN-US">2</span>月底前）。非全日制专科毕业生不得报考护理专业。</span></p>
+<p style="text-indent:32px"><span lang="EN-US" style="font-size:16px">4<span style="font-size: 16px; text-indent: 32px; text-wrap-mode: wrap;">．</span></span><span style="font-size:16px">非广东省户籍，就读广东省普通高校的应届专科毕业生。</span></p>
+<p style="text-indent:32px"><span lang="EN-US" style="font-size:16px">5<span style="font-size: 16px; text-indent: 32px; text-wrap-mode: wrap;">．</span></span><span style="font-size:16px">非广东省户籍，在广东省参加普通高考被外省普通高校录取并就读的应届专科毕业生。</span></p>
+<p style="text-indent:32px"><span lang="EN-US" style="font-size:16px">6<span style="font-size: 16px; text-indent: 32px; text-wrap-mode: wrap;">．</span></span><span style="font-size:16px">报考建档立卡类别的，需符合户籍、学历等相应报考条件，且必须为原省级以上扶贫管理部门登记在册人员。广东省户籍的原建档立卡贫困家庭考生为广东省乡村振兴局登记在册，有建档立卡资料的考生（以广东省乡村振兴局提供的数据为准），报名时无需勾选“建档立卡”标记；外省户籍原建档立卡的考生，原则上应为原国家层面建档立卡贫困家庭考生（需提供全国防返贫监测信息系统本人信息页截图并盖当地管理机构公章），报名时须勾选“建档立卡”标记并上传相关证明资料。</span></p>
+<p style="text-indent:32px"><span lang="EN-US" style="font-size:16px">7<span style="font-size: 16px; text-indent: 32px; text-wrap-mode: wrap;">．</span></span><span style="font-size:16px">退役大学生士兵可申请参加相关高校的退役大学生士兵免文化课考试专升本招生，详见《深圳职业技术大学<span lang="EN-US">2026</span>年退役大学生士兵普通专升本招生简章》。</span></p>
+<p style="text-indent:32px"><strong><span style="font-size:16px">（二）下列人员不得报考</span></strong></p>
+<p style="text-indent:32px"><span lang="EN-US" style="font-size:16px">1<span style="font-size: 16px; text-indent: 32px; text-wrap-mode: wrap;">．</span></span><span style="font-size:16px">具有普通高等学历教育资格的高校非应届毕业在校生（含保留学籍的学生）。</span></p>
+<p style="text-indent:32px"><span lang="EN-US" style="font-size:16px">2<span style="font-size: 16px; text-indent: 32px; text-wrap-mode: wrap;">．</span></span><span style="font-size:16px">因违反国家教育考试规定，被给予暂停参加普通专升本招生考试处理且在停考期内的人员。</span></p>
+<p style="text-indent:32px"><span lang="EN-US" style="font-size:16px">3<span style="font-size: 16px; text-indent: 32px; text-wrap-mode: wrap;">．</span></span><span style="font-size:16px">因触犯刑律受到刑事处罚、尚在处罚期内的。</span></p>
+<p style="text-indent:32px"><span lang="EN-US" style="font-size:16px">4<span style="font-size: 16px; text-indent: 32px; text-wrap-mode: wrap;">．</span></span><span style="font-size:16px">不符合报考条件的其他人员。</span></p>
+<p style="text-indent:32px"><span style="font-size:16px"><br></span></p>
+<p style="text-indent:37px"><strong><span style="font-size:19px">二、招生专业及考试大纲</span></strong></p>
+<p style="text-indent:32px"><span style="font-size:16px">我校<span lang="EN-US">2026</span>年普通专升本拟招生专业为护理、园林景观工程，具体计划数以广东省教育考试院公布为准。招生专业学科门类、限招条件、收费标准等详见招生目录，考试大纲见附件。<span lang="EN-US"><br clear="all" style="page-break-before: always"> </span></span></p>
+<p style="text-align:center;text-indent:32px"><strong><span style="font-size:16px">深圳职业技术大学<span lang="EN-US">2026</span>年普通高等学校专升本招生目录</span><span style="font-size: 16px;">（普通批、建档立卡批）</span></strong></p>
+<div align="center">
+ <table cellspacing="0" cellpadding="0" align="center">
+  <tbody>
+   <tr class="firstRow" style="height:53px">
+    <td width="46" height="35" style="border: 1px solid windowtext; padding: 0px 7px;"><p style="text-align: center; line-height: normal;"><span style="font-size: 12px;"><strong>专业</strong></span></p><p style="text-align: center; line-height: normal;"><span style="font-size: 12px;"><strong>名称</strong></span></p></td>
+    <td width="48" height="35" style="border-top: 1px solid windowtext; border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-image: initial; border-left: none; padding: 0px 7px;"><p style="text-align:center;"><span style="font-size: 12px;"><strong>学科</strong></span></p><p style="text-align:center;"><span style="font-size: 12px;"><strong>门类</strong></span></p></td>
+    <td width="65" height="35" style="border-top: 1px solid windowtext; border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-image: initial; border-left: none; padding: 0px 7px;"><p style="text-align:center;"><span style="font-size: 12px;"><strong>专业</strong></span></p><p style="text-align:center;"><span style="font-size: 12px;"><strong>基础课</strong></span></p></td>
+    <td width="85" height="35" style="border-top: 1px solid windowtext; border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-image: initial; border-left: none; padding: 0px 7px;"><p style="text-align:center;"><span style="font-size: 12px;"><strong>专业</strong></span></p><p style="text-align:center;"><span style="font-size: 12px;"><strong>综合课</strong></span></p></td>
+    <td width="228" height="35" align="center" valign="middle" style="border-top: 1px solid windowtext; border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-image: initial; border-left: none; padding: 0px 7px;"><p style="text-align:center;"><span style="font-size: 12px;"><strong>参考书目</strong></span></p></td>
+    <td width="48" height="35" style="border-top: 1px solid windowtext; border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-image: initial; border-left: none; padding: 0px 7px; word-break: break-all;"><p style="text-align:center;"><span style="font-size: 12px;"><strong>办学地点</strong></span></p></td>
+    <td width="165" height="35" style="border-top: 1px solid windowtext; border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-image: initial; border-left: none; padding: 0px 7px;"><p style="text-align:center;"><span style="font-size: 12px;"><strong>限招条件</strong></span></p></td>
+   </tr>
+   <tr style="height:23px">
+    <td width="46" height="23" style="border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-left: 1px solid windowtext; border-image: initial; border-top: none; padding: 0px 7px;"><p><span style="font-size: 12px;">护理</span></p></td>
+    <td width="48" height="23" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px;"><p><span style="font-size: 12px;">医学</span></p></td>
+    <td width="65" height="23" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px;"><p><span style="font-size: 12px;">生理学</span></p></td>
+    <td width="85" height="23" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px; word-break: break-all;"><p><span style="font-size: 12px;">护理综合</span></p><p><span style="font-size: 12px;">（校考）</span></p></td>
+    <td width="280" height="23" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px;"><p><span style="font-size: 12px;">1.《基础护理学》（第4版），张连辉、邓翠珍主编，人民卫生出版社，2019年1月；</span></p><p><span style="font-size: 12px;">2.《外科护理学》（第4版），熊云新、叶国英主编，人民卫生出版社，2018年11月；</span></p><p><span style="font-size: 12px;">3.《内科护理学》（第4版），冯丽华、史铁英主编，人民卫生出版社，2018年12月。</span></p></td>
+    <td width="48" height="23" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px; word-break: break-all;"><p><span style="font-size: 12px;">西丽校区</span></p></td>
+    <td width="165" height="23" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px;"><p><span style="font-size: 12px;">1.限招护理、助产专业全日制专科学生；</span></p><p><span style="font-size: 12px;">2.不招色盲考生。</span></p></td>
+   </tr>
+   <tr style="height:132px">
+    <td width="46" height="132" style="border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-left: 1px solid windowtext; border-image: initial; border-top: none; padding: 0px 7px;"><p><span style="font-size: 12px;">园林景观工程</span></p></td>
+    <td width="48" height="132" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px;"><p><span style="font-size: 12px;">农学</span></p></td>
+    <td width="65" height="132" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px;"><p><span style="font-size: 12px;">生态学基础</span></p></td>
+    <td width="85" height="132" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px;"><p><span style="font-size: 12px;">园林景观综合</span></p><p><span style="font-size: 12px;">（校考）</span></p></td>
+    <td width="228" height="132" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px;"><p><span style="font-size: 12px;">1.《风景园林工程》，孟兆祯主编，中国林业出版社，2012年3月；</span></p><p><span style="font-size: 12px;">2.《园林规划设计》（第5版），周初梅主编，重庆大学出版社，2023年11月；</span></p><p><span style="font-size: 12px;">3.《园林树木学》（华南本 第3版），庄雪影主编，华南理工大学出版社，2014年9月；</span></p><p><span style="font-size: 12px;">4.《园林花卉》（第2版），谢利娟主编，中国农业出版社，2023年7月。</span></p></td>
+    <td width="48" height="132" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px;"><p><span style="font-size: 12px;">西丽校区</span></p></td>
+    <td width="165" height="132" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px;"><p><span style="font-size: 12px;">1.限招风景园林设计、园林工程技术、园林技术、园艺技术、花卉生产与花艺、建筑设计、智慧城市管理技术、建筑工程技术、智能建造技术、工程造价、建设工程管理、环境艺术设计专业专科学生；</span></p><p><span style="font-size: 12px;">2.不招色盲考生。</span></p></td>
+   </tr>
+  </tbody>
+ </table>
+</div>
+<p style="text-indent:32px"><span style="font-size:16px">备注：</span><span lang="EN-US">1</span>．收费标准：学费<span lang="EN-US">6000</span>元<span lang="EN-US">/</span>学年，住宿费<span lang="EN-US">1200-1500</span>元<span lang="EN-US">/</span>学年。</p>
+<p style="text-indent:28px"><span lang="EN-US">2<span style="text-indent: 32px; text-wrap-mode: wrap;">．</span></span>前置专业要求参照教育部发布的《高等职业教育专科新旧专业对照表》<span lang="EN-US">(2021</span>年<span lang="EN-US">)</span>设置。因高等职业教育专科专业目录调整<span lang="EN-US">(</span>专业合并、更名、取消等<span lang="EN-US">)</span>所涉及的部分相符专业的原专业名称未列出的，会一并在广东省普通高校专升本管理系统中设置，如有遗漏，请在志愿填报前将佐证材料发送至我校招生邮箱<span lang="EN-US">szpuzs@163.com</span>，查证无误后予以增补，逾期不再受理。</p>
+<p style="text-indent:37px"><strong><span style="font-size:19px"><br></span></strong></p>
+<p style="text-indent:37px"><strong><span style="font-size:19px">三、报名方式、时间及报考费</span></strong></p>
+<p style="text-indent:32px"><span lang="EN-US" style="font-size:16px">2026</span><span style="font-size:16px">年普通专升本报名实行网上预报名、网上审核和网上缴费。网上预报名时间为<span lang="EN-US">2026</span>年<span lang="EN-US">1</span>月<span lang="EN-US">12</span>日<span lang="EN-US">09:00</span>至<span lang="EN-US">19</span>日<span lang="EN-US">18:00</span>；考生提交预报名资料后，省招生办进行资料审核，考生须登录“广东省<span lang="EN-US">2026</span>年普通高校专升本报名系统”（下称报名系统）（<span lang="EN-US">http://www.eeagd.edu.cn/ptzsbks</span>）查看报名资格审核结果，审核结果为“通过”或“待验证”的考生可以缴费；网上缴费截止时间为<span lang="EN-US">1</span>月<span lang="EN-US">23</span>日<span lang="EN-US">17:00</span>。</span></p>
+<p style="text-indent:32px"><span style="font-size:16px">考生报名时，须认真按要求填报相关信息及上传相关材料，并确保所提供的信息及材料的真实性。考生如凭无效证件或其他不符合报考条件的证件报名，一旦发现，取消考生报名资格，已录取考生取消其报名及录取资格。</span></p>
+<p style="text-indent:32px"><span style="font-size:16px">采集考生相片时，须通过广东省教育考试院微信小程序或者报名系统实时拍摄，以确保相片符合教育部学籍注册的采集要求以及公安部门人像比对要求。考生上传过度美颜、修图的相片，会影响考试入场、学籍注册等后续环节。</span></p>
+<p style="text-indent:32px"><strong><span style="font-size:16px">（一）报名方式</span></strong></p>
+<p style="text-indent:32px"><span style="font-size:16px">考生须在规定时间内通过网上报名系统报名。具体如下：</span></p>
+<p style="text-indent:32px"><span lang="EN-US" style="font-size:16px">1</span><span style="font-size: 16px; text-indent: 32px; text-wrap-mode: wrap;"><span style="font-size: 16px; text-indent: 32px; text-wrap-mode: wrap;">．</span></span><span style="font-size:16px">预报名。</span></p>
+<p style="text-indent:32px"><span style="font-size:16px"><span lang="EN-US">2026</span>年<span lang="EN-US">1</span>月<span lang="EN-US">12</span>日<span lang="EN-US">09:00</span>至<span lang="EN-US">19</span>日<span lang="EN-US">18:00</span>（共<span lang="EN-US">8</span>天）为网上预报名时间，考生通过互联网登录报名系统进行预报名，阅读相关报考规定、要求，签订《诚信考试承诺书》（附件<span lang="EN-US">1</span>），录入报名信息，选定考点所在地市，绑定手机号，按照系统指引采集相片，上传资料，获取预报名号并设定密码。逾期不再办理预报名手续。</span></p>
+<p style="text-indent:32px"><span style="font-size:16px">（<span lang="EN-US">1</span>）考生须自行进行在线专科学历学籍验证</span></p>
+<p style="text-indent:32px"><span style="font-size:16px">考生需要先下载安装“学信网<span lang="EN-US">app</span>”并通过实名验证。</span></p>
+<p style="text-indent:32px"><span style="font-size:16px">已取得专科毕业证书的往届考生，在网上报名时须在报名系统“学历学籍验证”模块输入相关专科毕业信息，使用“学信网<span lang="EN-US">app</span>”扫描学历验证二维码并同意授权核验选择的学历信息，然后由系统反馈验证结果。验证结果分“通过”和“不通过”两种。学历验证结果为“不通过”的考生须自行前往学信网（<span lang="EN-US">https://www.chsi.com.cn/xlrz/index.jsp</span>）网上申请专科学历认证，报名后续流程请参见第（<span lang="EN-US">5</span>）点中第<span lang="EN-US">②</span>项。</span></p>
+<p style="text-indent:32px"><span style="font-size:16px">尚未取得专科毕业证书的普通高校应届专科毕业生，在网上报名时须在报名系统“学历学籍验证”模块输入本人身份证号码和姓名等信息，使用“学信网<span lang="EN-US">app</span>”扫描学籍验证二维码并同意授权核验选择的专科学籍信息，由系统反馈验证结果。验证结果分“通过”和“不通过”两种。学籍查验“不通过”的考生，不予报考。</span></p>
+<p style="text-indent:32px"><span style="font-size:16px">具体验证方式详见附件<span lang="EN-US">2</span>。</span></p>
+<p style="text-indent:32px"><span style="font-size:16px">（<span lang="EN-US">2</span>）在广东省参加普通高考，就读外省普通高校的非广东户籍应届专科毕业生。预报名时须自行进行在线专科学籍验证，在填报信息获取预报名号后，还需在专科学历学籍验证界面上点击“验证专科录取信息”按钮进行普通高校专科录取信息验证，由系统反馈验证结果。验证结果分“通过”和“不通过”两种，验证结果为“通过”的考生才能上传报名资料供审核；验证结果为“不通过”的考生（考生报考的姓名、身份证号与专科录取时的不相符），可咨询广东省教育考试院，联系电话：<span lang="EN-US">020—62833628</span>。</span></p>
+<p style="text-indent:32px"><span style="font-size:16px">（<span lang="EN-US">3</span>）在我省参加自学考试且已获得专业考试计划规定的全部课程合格成绩，符合毕业条件，已成功办理<span lang="EN-US">2025</span>年<span lang="EN-US">12</span>月毕业手续，但未领取毕业证书的自学考试毕业生可以报考，在预报名时填报信息获取预报名号后，点击“自考毕业情况验证”，由系统反馈验证结果。验证结果分“通过”和“不通过”两种，验证结果为“通过”的考生才能上传报名资料供审核，验证结果为“不通过”的考生，不予报考。在外省参加自学考试的，可以由该省教育考试机构出具成绩单及“符合毕业证明”。</span></p>
+<p style="text-indent:32px"><span style="font-size:16px">（<span lang="EN-US">4</span>）考生须将以下资料扫描或拍照上传至“报名系统”（须确保资料真实、完整、清晰），供报名审核：</span></p>
+<p style="text-indent:32px"><span lang="EN-US" style="font-size:16px">①</span><span style="font-size:16px">户口本（首页、本人姓名页）。</span></p>
+<p style="text-indent:32px"><span lang="EN-US" style="font-size:16px">②</span><span style="font-size:16px">已取得专科毕业证，但报名系统学历验证结果为“不通过”的，考生还必须上传专科毕业证书、学历认证报告或电子注册备案表。</span></p>
+<p style="text-indent:32px"><span lang="EN-US" style="font-size:16px">③</span><span style="font-size:16px">具有广东省户籍连续满<span lang="EN-US">3</span>年的非全日制学历考生，须上传在我省参加社会保险缴费累计<span lang="EN-US">1</span>年以上（含<span lang="EN-US">1</span>年）证明（基本医疗保险、基本养老保险都需累计满<span lang="EN-US">1</span>年及以上）。</span></p>
+<p style="text-indent:32px"><span lang="EN-US" style="font-size:16px">④</span><span style="font-size:16px">非广东户籍报考建档立卡类别的，考生还须上传有关建档立卡的证明资料（全国防返贫监测信息系统本人信息页截图并盖当地管理机构公章）。</span></p>
+<p style="text-indent:32px"><span lang="EN-US" style="font-size:16px">⑤</span><span style="font-size:16px">符合加分照顾政策的，考生还须在报名结束前上传相应的获奖证书等证明资料。省招生办审核后，普通专升本录取前在广东省教育考试院网站公示符合加分资格的考生名单。</span></p>
+<p style="text-indent:32px"><span lang="EN-US" style="font-size:16px">⑥</span><span style="font-size:16px">考生须依据《广东省<span lang="EN-US">2026</span>年普通高校专升本招生体格检查表》（附件<span lang="EN-US">3</span>）的规定，自行前往二级甲等（含）以上医院或相应的医疗单位进行体检，填报志愿开始前将体检结果上传至报名系统中（体检表有效期：<span lang="EN-US">2026</span>年<span lang="EN-US">1</span>月<span lang="EN-US">1</span>日至填报志愿第一天）。</span></p>
+<p style="text-indent:32px"><span style="font-size:16px">（<span lang="EN-US">5</span>）资料审核</span></p>
+<p style="text-indent:32px"><span lang="EN-US" style="font-size:16px">①</span><span style="font-size:16px">考生上传的资料由省招生办在网上进行审核，审核结果分为“通过”“待验证”和“不通过”<span lang="EN-US">3</span>种，不通过的将反馈不通过的原因，<span lang="EN-US">1</span>月<span lang="EN-US">21</span>日<span lang="EN-US">18:00</span>前完成所有预报名考生资料审核。审核结果为“不通过”的考生，根据不通过的原因，须在<span lang="EN-US">1</span>月<span lang="EN-US">22</span>日<span lang="EN-US">18</span>：<span lang="EN-US">00</span>前上传补充资料，逾期未上传补充资料的，视为放弃报名。</span></p>
+<p style="text-indent:32px"><span lang="EN-US" style="font-size:16px">②</span><span style="font-size:16px">考生预报名时学历验证结果为“不通过”，且在报名期间还未获得学历认证报告或电子注册备案表的考生，可选择“申请补学历认证报告或电子注册备案表”，阅读并签订“补报资料承诺书”（附件<span lang="EN-US">4</span>）后，审核时将考生设置为“待验证”，设置为“待验证”的考生可以缴费。考生须将学历认证报告或电子注册备案表上传至报名系统，由省招生办审核，上传截止时间为<span lang="EN-US">2026</span>年<span lang="EN-US">3</span>月<span lang="EN-US">10</span>日。逾期未提交学历认证报告或电子注册备案表的考生，将被取消报考资格，不予打印准考证，不安排考试。</span></p>
+<p style="text-indent:32px"><span lang="EN-US" style="font-size:16px">2<span style="text-indent: 32px; text-wrap-mode: wrap;"><span style="font-size: 16px; text-indent: 32px; text-wrap-mode: wrap;">．</span></span></span><span style="font-size:16px">选择考试科目。</span></p>
+<p style="text-indent:32px"><span style="font-size:16px">考生须认真查阅我校的招生简章和广东省教育考试院编印的《广东省<span lang="EN-US">2026</span>年普通高等学校专升本招生专业目录及考试要求》（下称《专业目录及考试要求》），详细了解我校招生专业的相关要求。按我校招生专业的学科门类选择专业基础课科目；对于专业综合课，考生要结合我校专业实际，选择报考我校校考科目，也可同时选择报名参加<span lang="EN-US">1</span>个省统考科目组和<span lang="EN-US">1</span>个学校校考科目进行考试。</span></p>
+<p style="text-indent:32px"><span lang="EN-US" style="font-size:16px">3<span style="text-indent: 32px; text-wrap-mode: wrap;"><span style="font-size: 16px; text-indent: 32px; text-wrap-mode: wrap;">．</span></span></span><span style="font-size:16px">确认报名。</span></p>
+<p style="text-indent:32px"><span style="font-size:16px"><span lang="EN-US">2026</span>年<span lang="EN-US">1</span>月<span lang="EN-US">23</span>日<span lang="EN-US">17:00</span>为报名及省统考科目缴费截止时间。</span></p>
+<p style="text-indent:32px"><span style="font-size:16px">（<span lang="EN-US">1</span>）考生可通过报名系统自行查看审核结果，审核结果为“通过”或“待验证”的考生须在规定的时间内进行网上缴费，确认报名资格。</span></p>
+<p style="text-indent:32px"><span style="font-size:16px">（<span lang="EN-US">2</span>）交费成功的考生才能参加编排考场座位、打印准考证；未缴费的考生视为放弃报名资格。</span></p>
+<p style="text-indent:32px"><strong><span style="font-size:16px">（二）报考费</span></strong></p>
+<p style="text-indent:32px"><span style="font-size:16px">报名考生需交报考费<span lang="EN-US">40</span>元<span lang="EN-US">/</span>科。</span></p>
+<p style="text-indent:32px"><span lang="EN-US" style="font-size:16px">1<span style="text-indent: 32px; text-wrap-mode: wrap;"><span style="font-size: 16px; text-indent: 32px; text-wrap-mode: wrap;">．</span></span></span><span style="font-size:16px">省统考科目报考费在报名系统缴交。</span></p>
+<p style="text-indent:32px"><span lang="EN-US" style="font-size:16px">2<span style="text-indent: 32px; text-wrap-mode: wrap;"><span style="font-size: 16px; text-indent: 32px; text-wrap-mode: wrap;">．</span></span></span><span style="font-size:16px">校考科目报考费由我校收取。具体缴费方式及截止时间另行通知，请密切关注深圳职业技术大学招生信息网，避免错过缴费通知。</span></p>
+<p style="text-indent:32px"><span style="font-size:16px">已成功报名（交费成功）的考生，若个人原因放弃报名，不予退回报考费。</span></p>
+<p style="text-indent:32px"><span style="font-size:16px"><br></span></p>
+<p style="text-indent:37px"><strong><span style="font-size:19px">四、考试科目、时间及地点</span></strong></p>
+<p style="text-indent:32px"><strong><span style="font-size:16px">（一）考试科目</span></strong></p>
+<p style="text-indent:32px"><span lang="EN-US" style="font-size:16px">2026</span><span style="font-size:16px">年普通专升本考试科目共设<span lang="EN-US">4</span>门，分别为<span lang="EN-US">2</span>门公共课、<span lang="EN-US">1</span>门专业基础课、<span lang="EN-US">1</span>门专业综合课。公共课、专业基础课每科考试时间<span lang="EN-US">120</span>分钟、卷面满分值<span lang="EN-US">100</span>分；专业综合课每科考试时间<span lang="EN-US">150</span>分钟、卷面满分值<span lang="EN-US">200</span>分。专业综合课成绩四舍五入为整数。</span></p>
+<p style="text-indent:32px"><span style="font-size:16px">公共课为政治理论和英语<span lang="EN-US">2</span>门。</span></p>
+<p style="text-indent:32px"><span style="font-size:16px">省统考科目的考试要求由省教育考试院根据教育部专科升本科同一层次的要求编写确定，详见《专业目录及考试要求》。</span></p>
+<p style="text-indent:32px"><strong><span style="font-size:16px">（二）考试时间</span></strong></p>
+<p style="text-indent:32px"><span style="font-size:16px">普通专升本招生考试时间安排如下：我校省统考科目定于<span lang="EN-US">2026</span>年<span lang="EN-US">3</span>月<span lang="EN-US">28</span>日（星期六）至<span lang="EN-US">29</span>日（星期日）两天，校考科目初定于<span lang="EN-US">2026</span>年<span lang="EN-US">4</span>月<span lang="EN-US">18</span>日（星期六）进行（如有变化，另行通知）。具体安排见下表：</span></p>
+<p style="text-indent: 32px; text-align: center;"><strong><span style="font-size:16px">广东省<span lang="EN-US">2026</span>年普通专升本招生考试时间表（北京时间）</span></strong></p>
+<div align="center">
+ <table cellspacing="0" cellpadding="0" width="584">
+  <thead>
+   <tr class="firstRow" style="height:35px">
+    <td width="96" rowspan="2" height="35" style="border: 1px solid windowtext; padding: 0px 7px;"><p style="text-align:right;"><strong>项目</strong></p><p style="text-align:left;"><strong>日期</strong></p></td>
+    <td width="278" colspan="2" height="35" style="border-top: 1px solid windowtext; border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-image: initial; border-left: none; padding: 0px 7px;"><p style="text-align:center;"><strong>上午</strong></p></td>
+    <td width="210" colspan="2" height="35" style="border-top: 1px solid windowtext; border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-image: initial; border-left: none; padding: 0px 7px;"><p style="text-align:center;"><strong>下午</strong></p></td>
+   </tr>
+   <tr style="height:28px">
+    <td width="116" height="28" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px;"><p style="text-align:center;"><strong>时间</strong></p></td>
+    <td width="162" height="28" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px;"><p style="text-align:center;"><strong>科目</strong></p></td>
+    <td width="95" height="28" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px;"><p style="text-align:center;"><strong>时间</strong></p></td>
+    <td width="116" height="28" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px;"><p style="text-align:center;"><strong>科目</strong></p></td>
+   </tr>
+  </thead>
+  <tbody>
+   <tr style="height:32px">
+    <td width="96" height="32" style="border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-left: 1px solid windowtext; border-image: initial; border-top: none; padding: 0px 7px;"><p style="text-align:center;"><span lang="EN-US">3</span>月<span lang="EN-US">28</span>日</p></td>
+    <td width="116" height="32" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px;"><p style="text-align:center;"><span lang="EN-US">9:00-11:00</span></p></td>
+    <td width="162" height="32" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px;"><p style="text-align:center;">政治理论</p></td>
+    <td width="95" height="32" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px;"><p style="text-align:center;"><span lang="EN-US">15:00-17:00</span></p></td>
+    <td width="116" height="32" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px;"><p style="text-align:center;">英语</p></td>
+   </tr>
+   <tr style="height:32px">
+    <td width="96" height="32" style="border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-left: 1px solid windowtext; border-image: initial; border-top: none; padding: 0px 7px;"><p style="text-align:center;"><span lang="EN-US">3</span>月<span lang="EN-US">29</span>日</p></td>
+    <td width="116" height="32" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px;"><p style="text-align:center;"><span lang="EN-US">9:00-11:00</span></p></td>
+    <td width="162" height="32" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px;"><p style="text-align:center;">专业基础课</p></td>
+    <td width="95" height="32" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px;"><br></td>
+    <td width="116" height="32" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px;"><br></td>
+   </tr>
+   <tr style="height:36px">
+    <td width="96" rowspan="2" height="36" style="border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-left: 1px solid windowtext; border-image: initial; border-top: none; padding: 0px 7px;"><p style="text-align:center;"><span lang="EN-US">4</span>月<span lang="EN-US">18</span>日</p></td>
+    <td width="116" height="36" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px;"><p style="text-align:center;"><span lang="EN-US">9:00-11:30</span></p></td>
+    <td width="162" height="36" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px;"><p style="text-align:center;">护理综合（校考）</p></td>
+    <td width="95" height="36" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px;"><br></td>
+    <td width="116" height="36" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px;"><br></td>
+   </tr>
+   <tr style="height:32px">
+    <td width="116" height="32" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px;"><p style="text-align:center;"><span lang="EN-US">9:00-11:30</span></p></td>
+    <td width="162" height="32" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px;"><p style="text-align:center;">园林景观综合（校考）</p></td>
+    <td width="95" height="32" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px;"><br></td>
+    <td width="116" height="32" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px;"><br></td>
+   </tr>
+  </tbody>
+ </table>
+</div>
+<p style="text-indent:32px"><strong><span style="font-size:16px">（三）考试地点</span></strong></p>
+<p style="text-indent:32px"><span style="font-size:16px">普通专升本招生考试的省统考科目考点由各地市招办（考试中心、考试院）安排，考生在报名时需根据自身实际情况谨慎选择参加省统考科目考试所在地市，报名完成后不得更改。</span></p>
+<p style="text-indent:32px"><span style="font-size:16px">省统考科目的考生考场座位统一编排管理。为了适应网上评卷的要求，省教育考试院统一编排考场和座位号，考生在规定时间内登录报名系统自行打印考生准考证。</span></p>
+<p style="text-indent:32px"><span style="font-size:16px">校考科目由我校安排，后续公布于深圳职业技术大学招生信息网。</span></p>
+<p style="text-indent:32px"><span style="font-size:16px"><br></span></p>
+<p style="text-indent:37px"><strong><span style="font-size:19px">五、规范加分照顾政策</span></strong></p>
+<p style="text-indent:32px"><span style="font-size:16px">对符合我省普通专升本招生报考相关规定，并获得中国国际大学生创新大赛（原中国国际“互联网<span lang="EN-US">+</span>”大学生创新创业大赛）（高教主赛道、青年红色筑梦之旅、职教赛道、产业命题赛道）或教育部等部门主办的全国职业院校技能大赛或世界职业院校技能大赛总决赛争夺赛或人力资源社会保障部主办的中华人民共和国职业技能大赛奖项的考生，可在其文化课省统考成绩总分的基础上增加分值投档，具体规定见《广东省<span lang="EN-US">2026</span>年普通高等学校专升本招生工作规定》。</span></p>
+<p style="text-indent:32px"><span style="font-size:16px"><br></span></p>
+<p style="text-indent:37px"><strong><span style="font-size:19px">六、投档录取</span></strong></p>
+<p style="text-indent:32px"><span style="font-size:16px">（一）普通专升本招生由省招生委员会办公室根据年度普通专升本招生计划和考生成绩情况，按考生类别（建档立卡考生、普通考生）、专业基础课分别划定三科总分（<span lang="EN-US">2</span>门公共课<span lang="EN-US">+1</span>门专业基础课）和专业综合课两条最低控制分数线。</span></p>
+<p style="text-indent:32px"><span style="font-size:16px">（二）根据平行志愿投档原则，省招办对两条最低控制分数线均已上线的考生，按其四科总分和院校专业组计划<span lang="EN-US">1:1</span>比例，由高分到低分进行投档。学校依照“分数优先，遵循志愿”的专业录取原则，按考生成绩排位情况从高到低检索，对投出的考生择优录取。</span></p>
+<p style="text-indent:32px"><span style="font-size:16px">（三）根据《教育部办公厅关于做好有关高校保送录取世界技能大赛获奖选手工作的通知》（教学厅〔<span lang="EN-US">2020</span>〕<span lang="EN-US">3</span>号）精神，符合上述相应报考条件的高职应届毕业生，在世界技能组织主办的“世界技能大赛（<span lang="EN-US">World Skills Competition</span>）”中获奖的中国国家代表队选手可以保送至相关招生专业就读。考生须在规定时间内完成专升本网上报名，并在<span lang="EN-US">2026</span>年<span lang="EN-US">3</span>月<span lang="EN-US">15</span>日前将申请材料发送至招生邮箱<span lang="EN-US">szpuzs@163.com</span>，经我校审核同意后，按规定进行公示，并向省招生办进行备案并办理录取手续。申请材料明细如下：</span></p>
+<p style="text-indent:32px"><span lang="EN-US" style="font-size:16px">1</span><span style="text-indent: 32px; text-wrap-mode: wrap;">．</span><span style="font-size:16px">身份证正反面扫描件</span></p>
+<p style="text-indent:32px"><span lang="EN-US" style="font-size:16px">2<span style="text-indent: 32px; text-wrap-mode: wrap;">．</span></span><span style="font-size:16px">参加世界技能大赛证明（需盖学校公章）</span></p>
+<p style="text-indent:32px"><span lang="EN-US" style="font-size:16px">3</span><span style="font-size: 16px; text-indent: 32px; text-wrap-mode: wrap;">．</span><span style="font-size:16px">世界技能大赛获奖证书扫描件</span></p>
+<p style="text-indent:32px"><span lang="EN-US" style="font-size:16px">4<span style="text-indent: 32px; text-wrap-mode: wrap;"><span style="font-size: 16px; text-indent: 32px; text-wrap-mode: wrap;">．</span></span></span><span style="font-size:16px">世界技能大赛获奖证书翻译文件（需盖翻译单位公章）</span></p>
+<p style="text-indent:32px"><span lang="EN-US" style="font-size:16px">5<span style="text-indent: 32px; text-wrap-mode: wrap;"><span style="font-size: 16px; text-indent: 32px; text-wrap-mode: wrap;">．</span></span></span><span style="font-size:16px">世界技能大赛保送生资格申请表（附件<span lang="EN-US">5</span>）</span></p>
+<p style="text-indent:32px"><span style="font-size:16px">（四）按照教育部相关文件精神，我校将对原建档立卡贫困家庭（下称原建档立卡）考生按一定比例安排原建档立卡考生招生计划，实行计划单列，单独录取。</span></p>
+<p style="text-indent:32px"><span style="font-size:16px">（五）专业综合课为我校校考，在正式投档录取结束后，不进行征集志愿。</span></p>
+<p style="text-indent:32px"><span style="font-size:16px"><br></span></p>
+<p style="text-indent:37px"><strong><span style="font-size:19px">七、普通高校专升本在校学习期间的管理</span></strong></p>
+<p style="text-indent:32px"><span style="font-size:16px">（一）按照教育部的有关规定，普通高校在新生入学时要对新生专科学历等报名资料进行复核，复核未通过的不予新生学籍电子注册，并按规定取消入学资格。学生入学学籍注册后三个月内，我校将对学生人员身份、前置学历条件、身心健康情况等入学资格情况进行复查，复查不合格者，取消学籍。</span></p>
+<p style="text-indent:32px"><span style="font-size:16px">（二）新生入学后的体检复检工作，由我校按照有关规定组织进行。体检标准参照教育部、卫生部、中国残疾人联合会《关于印发〈普通高等学校招生体检工作指导意见〉的通知》（教学〔<span lang="EN-US">2003</span>〕<span lang="EN-US">3</span>号）、《教育部办公厅 卫生部办公厅关于普通高等学校招生学生入学身体检查取消乙肝项目检测有关问题的通知》（教学厅〔<span lang="EN-US">2010</span>〕<span lang="EN-US">2</span>号）及教育部《关于明确慢性肝炎病人并且肝功能不正常的具体判定标准的函》（教学司函〔<span lang="EN-US">2010</span>〕<span lang="EN-US">22</span>号）要求执行，复检不合格者取消入学资格。</span></p>
+<p style="text-indent:32px"><span style="font-size:16px">（三）普通专升本录取的考生秋季入学，全日制脱产学习。我校对普通专升本学生采取独立编班形式开展教育教学，并按普通高等教育学生相关管理办法管理。普通专升本学生毕业时，其毕业证书上标注“在本校<span lang="EN-US">XX</span>专业专科起点本科学习，学制两年”，学习时间按进入本科阶段学习和颁发毕业证的实际时间填写。</span></p>
+<p style="text-indent:32px"><span lang="EN-US" style="font-size:16px"> </span><span style="font-size:16px">（四）普通专升本学生入学后不得转专业。</span></p>
+<p style="text-indent:32px"><span style="font-size:16px"><br></span></p>
+<p style="text-indent:37px"><strong><span style="font-size:19px">八、普通高校专升本毕业与就业</span></strong></p>
+<p style="text-indent:32px"><span style="font-size:16px">普通专升本修完本科教学计划规定的课程，获得相应学分，德、智、体考核合格，符合相应专业人才培养规格，达到我校毕业要求的，准予本科毕业，发给本科毕业证书。</span></p>
+<p style="text-indent:32px"><span style="font-size:16px">符合《中华人民共和国学位条例》规定者，授予相应的学士学位。</span></p>
+<p style="text-indent:32px"><span style="font-size:16px">普通专升本毕业后的就业办法，与普通高校本科毕业生相同。</span></p>
+<p style="text-indent:32px"><span style="font-size:16px"><br></span></p>
+<p style="text-indent:37px"><strong><span style="font-size:19px">九、联系方式</span></strong></p>
+<p style="text-indent:32px"><span style="font-size:16px">咨询电话：<span lang="EN-US">0755-26018898</span>、<span lang="EN-US">26018878</span></span></p>
+<p style="text-indent:32px"><span style="font-size:16px">电子邮箱：<span lang="EN-US">szpuzs@163.com</span></span></p>
+<p style="text-indent:32px"><span style="font-size:16px">招生网址：<span lang="EN-US">https://zhaosheng.szpu.edu.cn/</span></span></p>
+<p style="text-indent:32px"><span style="font-size:16px">学校地址：广东省深圳市南山区留仙大道<span lang="EN-US">7098</span>号</span></p>
+<p style="text-indent:32px"><span style="font-size:16px"><br></span></p>
+<p style="text-indent:37px"><strong><span style="font-size:19px">十、其他</span></strong></p>
+<p style="text-indent:32px"><span style="font-size:16px">实施过程中，如教育部对相关政策有新的规定，按新规定执行。</span></p>
+<p style="text-indent:32px"><br></p>
+<p style="text-indent:37px"><strong><span style="font-size:19px">附件：</span></strong><span style="font-size: 16px;">（点击下方链接下载）</span></p>
+<p style="text-indent:32px"><a href="../../UploadFiles/news/2025/2026zsbfj1-4.doc" target="_self"><span style="text-decoration:underline;"><span lang="EN-US" style="font-size:16px">1<span style="font-size: 16px; text-indent: 32px; text-wrap-mode: wrap;">．</span></span><span style="font-size:16px">广东省<span lang="EN-US">2026</span>年普通高等学校专升本招生统一考试考生诚信考试承诺书</span></span></a></p>
+<p style="text-indent:32px"><a href="../../UploadFiles/news/2025/2026zsbfj1-4.doc" target="_self"><span style="text-decoration:underline;"><span lang="EN-US" style="font-size:16px">2<span style="font-size: 16px; text-indent: 32px; text-wrap-mode: wrap;">．</span></span><span style="font-size:16px">广东省<span lang="EN-US">2026</span>年普通高等学校专升本考生专科毕业学历验证方式及注意事项</span></span></a></p>
+<p style="text-indent:32px"><a href="../../UploadFiles/news/2025/2026zsbfj1-4.doc" target="_self"><span style="text-decoration:underline;"><span lang="EN-US" style="font-size:16px">3<span style="font-size: 16px; text-indent: 32px; text-wrap-mode: wrap;">．</span></span><span style="font-size:16px">广东省<span lang="EN-US">2026</span>年普通高校专升本招生体格检查表</span></span></a></p>
+<p style="text-indent:32px"><a href="../../UploadFiles/news/2025/2026zsbfj1-4.doc" target="_self"><span style="text-decoration:underline;"><span lang="EN-US" style="font-size:16px">4<span style="font-size: 16px; text-indent: 32px; text-wrap-mode: wrap;">．</span></span><span style="font-size:16px">广东省<span lang="EN-US">2026</span>年普通高等学校专升本补报资料承诺书</span></span></a></p>
+<p style="text-indent:32px"><a href="../../UploadFiles/news/2025/2026zsbfj5.doc" target="_self"><span style="text-decoration:underline;"><span lang="EN-US" style="font-size:16px">5<span style="font-size: 16px; text-indent: 32px; text-wrap-mode: wrap;">．</span></span><span style="font-size:16px">世界技能大赛保送生资格申请表</span></span></a></p>
+<p style="text-indent:32px"><a href="../../UploadFiles/news/2025/2026zsbfj6.docx" target="_self"><span style="text-decoration:underline;"><span lang="EN-US" style="font-size:16px">6</span><span style="font-size:16px">．《护理综合》考试大纲</span></span></a></p>
+<p style="text-indent:32px"><a href="../../UploadFiles/news/2025/2026zsbfj7.docx" target="_self" textvalue="7．《园林景观综合》考试大纲"><span style="text-decoration:underline;"><span lang="EN-US" style="font-size:16px">7<span style="font-size: 16px; text-indent: 32px; text-wrap-mode: wrap;">．</span></span><span style="font-size:16px">《园林景观综合》考试大纲</span></span></a></p>
+<p style="text-align:left;"><br></p>
+<p><br></p>
+</div></div><div id="div_vote_id"></div>
+        
+   
+</form>
+
+          </div>
+        </div>
+      </div>
+    
+  </div>
+  <!--main end--> 
+ 
+  <!--foot start-->
+  <div class="foot">
+					<div class="bq">
+						<!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<table border="0" data-sort="sortDisabled"><tbody><tr class="firstRow"><td width="40">&nbsp;</td><td width="160"><img src="/__local/D/48/ED/2A1C0EC8C6C18EDE0BE715B5A12_22B2EEBD_66EF.png?e=.png" width="100" align="absmiddle" height="100" border="0" vspace="0" hspace="0" title="" alt="" /></td><td width="640" style="word-break: break-all;"><p><strong>咨询电话：</strong>0755-26018898，26018878（学校工作日8:30-12:00 14:30-17:00）</p><p><strong>电子邮箱：</strong>szpuzs@163.com</p><p><strong>联系地址：</strong>深圳市南山区留仙大道7098号深圳职业技术大学西丽校区留仙洞园区明德楼107室（邮编：518055 ）</p><p><strong>所属版权：</strong>深圳职业技术大学招生办公室©SZPU Admission Office</p></td><td width="30">&nbsp;</td><td width="130"><img src="/__local/0/89/9E/34C8D97AC52AB5EC20061A4A135_7FD29715_9246.png?e=.png" width="100" align="absmiddle" /></td></tr></tbody></table>
+					</div>
+				</div>
+  <!--foot end--> 
+</div>
+</div>
+</body>
+</html>

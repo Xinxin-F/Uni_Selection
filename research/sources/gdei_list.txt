@@ -1,0 +1,949 @@
+<!DOCTYPE html>
+<html  class="webplus-list"  >
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="renderer" content="webkit" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="viewport"
+    content="width=device-width,user-scalable=0,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
+  <meta name="format-detection" content="telephone=no" />
+  
+<link type="text/css" href="/_css/_system/system.css" rel="stylesheet"/>
+<link type="text/css" href="/_js/_portletPlugs/sudyNavi/css/sudyNav.css" rel="stylesheet" />
+<link type="text/css" href="/_js/_portletPlugs/datepicker/css/datepicker.css" rel="stylesheet" />
+<link type="text/css" href="/_js/_portletPlugs/simpleNews/css/simplenews.css" rel="stylesheet" />
+
+<script language="javascript" src="/_js/jquery.min.js" sudy-wp-context="" sudy-wp-siteId="4"></script>
+<script language="javascript" src="/_js2/loadStyle.js" sys-path="/_upload/site/1/style/1/1.css"  site-path="/_upload/site/00/04/4/style/7/7.css" ></script>
+<script language="javascript" src="/_js2/grayscale.js"   ></script>
+<script language="javascript" src="/_js/jquery.sudy.wp.visitcount.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/sudyNavi/jquery.sudyNav.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/datepicker/js/jquery.datepicker.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/datepicker/js/datepicker_lang_HK.js"></script>
+<link rel="shortcut icon" href="/_upload/tpl/01/3a/314/template314/favicon.ico" type="image/x-icon" />
+  <title>招生章程及特殊类型招生办法，分批次、分科类招生计划</title>
+  <meta name="keywords" content="主站" />
+  <meta name="description" content="广东第二师范学院" />
+  <link rel="stylesheet" href="/_upload/tpl/01/3a/314/template314/css/mobile.css?version=1.0.3" type="text/css" />
+  <link rel="stylesheet" href="/_upload/tpl/01/3a/314/template314/css/style.css?version=1.0.3" type="text/css" />
+  <link rel="stylesheet" href="/_upload/tpl/01/3a/314/template314/css/media.css?version=1.0.3" type="text/css" />
+  <link rel="stylesheet" href="/_upload/tpl/01/3a/314/template314/css/page.css" type="text/css" />
+  <!--[if lt IE 9]>
+      <script src="/_upload/tpl/01/3a/314/template314/extends/libs/html5.js"></script>
+    <![endif]-->
+</head>
+
+<body class="list mrlist xxgk">
+  <!--Start||head-->
+  <section class="wrapper header">
+    <div class="inner">
+      <div class="mod">
+        <div class="head-left" frag="面板19">
+          <!--logo开始-->
+          <div class="sitelogo" frag="窗口19" portletmode="simpleSiteAttri">
+            <span class="logo"><a href="/main.htm" title="返回广东第二师范学院首页"><img src="/_upload/tpl/01/3a/314/template314/images/logo.svg"
+                    alt="" /></a></span>
+          </div>
+          <!--//logo结束-->
+        </div>
+        <div class="head-right">
+          <div class="head-top">
+
+            <div class="left">
+              <div class="site-lang" frag="窗口58" data-fixnav-num="1">
+                
+                  
+                  <ul class="clearfix">
+                    
+                    <li class="links i1"><a href="https://security.gdei.edu.cn/cas/login?service=https://iportal.gdei.edu.cn/" target="_blank">数据融合门户</a></li>
+                    
+                    <li class="links i2"><a href="https://security.gdei.edu.cn/cas/jwxtsso.jsp" target="_blank">教务选课</a></li>
+                    
+                    <li class="links i3"><a href="https://lib.gdei.edu.cn/" target="_blank">图书馆</a></li>
+                    
+                  </ul>
+                  
+                
+              </div>
+            </div>
+            <div class="searchbox" frag="窗口39" portletmode="search" data-fixnav-num="3">
+                              <!--搜索组件-->
+                <div class="wp-search clearfix">
+                  <form action="/_web/_search/restful/api/direct.rst?locale=zh_CN&request_locale=zh_CN&context=&_p=YXM9NCZ0PTMxNCZkPTEyOTUmcD0yJmY9MTMyMCZtPVNOJnxibm5Db2x1bW5WaXJ0dWFsTmFtZT14eGdrJg__" method="post" target="_blank">
+                    <div class="search-input">
+                      <input name="keyword" class="search-title" type="text" value="请输入关键词..."
+                        onblur="if(this.value == '') { this.value = '请输入关键词...'; }"
+                        onfocus="if(this.value == '请输入关键词...') { this.value = ''; }" placeholder="请输入关键词..." />
+                    </div>
+                    <div class="search-btn">
+                      <input name="submit" class="search-submit" type="submit" value="" />
+                    </div>
+                  </form>
+                </div>
+                <!--//复制以上代码到自定义搜索-->
+              
+            </div>
+            <div class="site-en" frag="窗口59" data-fixnav-num="2">
+              
+            </div>
+            <a class="menu-btn">
+              <img src="/_upload/tpl/01/3a/314/template314/images/menuico.svg">
+            </a>
+          </div>
+          <div class="nav wp-navi" id="nav">
+            <div class="wp-panel">
+              <div class="wp-window" frag="窗口1">
+                
+                  
+                  <ul class="wp-menu" data-fixnav-num="0">
+                    
+                    <li class="menu-item i1">
+                      <a class="menu-link" href="/1313/list.htm" target="_self"> 学校概况</a>
+                      
+                      <em class="menu-switch-arrow"></em>
+                      <ul class="sub-menu">
+                        
+                        <li class="sub-item i1-1">
+                          <a class="sub-link" href="/3952/list.htm" target="_self">学校简介</a>
+                          
+                        </li>
+                        
+                        <li class="sub-item i1-2">
+                          <a class="sub-link" href="/1335/list.htm" target="_self">校园风光</a>
+                          
+                      <em class="menu-switch-arrow"></em>
+                      <ul class="sub-menu">
+                        
+                        <li class="sub-item i1-2-1">
+                          <a class="sub-link" href="/hd/list.htm" target="_self">海珠校区</a>
+                          
+                        </li>
+                        
+                        <li class="sub-item i1-2-2">
+                          <a class="sub-link" href="/hd_1410/list.htm" target="_self">花都校区</a>
+                          
+                        </li>
+                        
+                      </ul>
+                      
+                        </li>
+                        
+                        <li class="sub-item i1-3">
+                          <a class="sub-link" href="/1337/list.htm" target="_self">现任领导</a>
+                          
+                        </li>
+                        
+                        <li class="sub-item i1-4">
+                          <a class="sub-link" href="/lrld1/list.htm" target="_self">历任领导</a>
+                          
+                        </li>
+                        
+                        <li class="sub-item i1-5">
+                          <a class="sub-link" href="/xxxh/list.htm" target="_self">校训校徽</a>
+                          
+                        </li>
+                        
+                      </ul>
+                      
+                    </li>
+
+                    
+                    <li class="menu-item i2">
+                      <a class="menu-link" href="/1314/list.htm" target="_self"> 机构设置</a>
+                      
+                      <em class="menu-switch-arrow"></em>
+                      <ul class="sub-menu">
+                        
+                        <li class="sub-item i2-1">
+                          <a class="sub-link" href="/jxkyjg/list.htm" target="_self">教学机构</a>
+                          
+                        </li>
+                        
+                        <li class="sub-item i2-2">
+                          <a class="sub-link" href="/dzznbm/list.htm" target="_self">党政职能部门</a>
+                          
+                        </li>
+                        
+                        <li class="sub-item i2-3">
+                          <a class="sub-link" href="/1344/list.htm" target="_self">群团组织</a>
+                          
+                        </li>
+                        
+                        <li class="sub-item i2-4">
+                          <a class="sub-link" href="/1342/list.htm" target="_self">教辅部门</a>
+                          
+                        </li>
+                        
+                        <li class="sub-item i2-5">
+                          <a class="sub-link" href="/1345/list.htm" target="_self">附属机构</a>
+                          
+                        </li>
+                        
+                        <li class="sub-item i2-6">
+                          <a class="sub-link" href="/qtjg/list.htm" target="_self">其他机构</a>
+                          
+                        </li>
+                        
+                      </ul>
+                      
+                    </li>
+
+                    
+                    <li class="menu-item i3">
+                      <a class="menu-link" href="/1315/list.htm" target="_self">教学科研</a>
+                      
+                      <em class="menu-switch-arrow"></em>
+                      <ul class="sub-menu">
+                        
+                        <li class="sub-item i3-1">
+                          <a class="sub-link" href="/1347/list.htm" target="_self">人才培养</a>
+                          
+                        </li>
+                        
+                        <li class="sub-item i3-2">
+                          <a class="sub-link" href="/1351/list.htm" target="_self">教学资源与管理</a>
+                          
+                        </li>
+                        
+                        <li class="sub-item i3-3">
+                          <a class="sub-link" href="/1348/list.htm" target="_self">科学研究</a>
+                          
+                        </li>
+                        
+                      </ul>
+                      
+                    </li>
+
+                    
+                    <li class="menu-item i4">
+                      <a class="menu-link" href="/1349/list.htm" target="_self">社会服务</a>
+                      
+                    </li>
+
+                    
+                    <li class="menu-item i5">
+                      <a class="menu-link" href="/1317/list.htm" target="_self">招生就业 </a>
+                      
+                      <em class="menu-switch-arrow"></em>
+                      <ul class="sub-menu">
+                        
+                        <li class="sub-item i5-1">
+                          <a class="sub-link" href="/1364/list.htm" target="_self">招生</a>
+                          
+                        </li>
+                        
+                        <li class="sub-item i5-2">
+                          <a class="sub-link" href="http://jyzd.gdei.edu.cn/" target="_self">就业</a>
+                          
+                        </li>
+                        
+                      </ul>
+                      
+                    </li>
+
+                    
+                    <li class="menu-item i6">
+                      <a class="menu-link" href="https://www.gdei.edu.cn/rsc/zpgg/list.htm" target="_self">人才招聘与师德师风建...</a>
+                      
+                    </li>
+
+                    
+                    <li class="menu-item i7">
+                      <a class="menu-link" href="/xxgk/list.htm" target="_self">信息公开</a>
+                      
+                      <em class="menu-switch-arrow"></em>
+                      <ul class="sub-menu">
+                        
+                        <li class="sub-item i7-1">
+                          <a class="sub-link" href="/1366/list.htm" target="_self">基本信息公开</a>
+                          
+                      <em class="menu-switch-arrow"></em>
+                      <ul class="sub-menu">
+                        
+                        <li class="sub-item i7-1-1">
+                          <a class="sub-link" href="/jbxx/list.htm" target="_self">基本信息</a>
+                          
+                        </li>
+                        
+                        <li class="sub-item i7-1-2">
+                          <a class="sub-link" href="/xxzc/list.htm" target="_self">学校章程及制定的各项...</a>
+                          
+                        </li>
+                        
+                        <li class="sub-item i7-1-3">
+                          <a class="sub-link" href="/jzgdbdhxgzdwgzbg/list.htm" target="_self">教职工代表大会相关制...</a>
+                          
+                        </li>
+                        
+                        <li class="sub-item i7-1-4">
+                          <a class="sub-link" href="/xswyhxgzdwndbg/list.htm" target="_self">学术委员会相关制度、...</a>
+                          
+                        </li>
+                        
+                        <li class="sub-item i7-1-5">
+                          <a class="sub-link" href="/ndgzyd/list.htm" target="_self">发展规划及年度工作要...</a>
+                          
+                        </li>
+                        
+                        <li class="sub-item i7-1-6">
+                          <a class="sub-link" href="/xxgkndbg/list.htm" target="_self">信息公开年度报告</a>
+                          
+                        </li>
+                        
+                      </ul>
+                      
+                        </li>
+                        
+                        <li class="sub-item i7-2">
+                          <a class="sub-link" href="/1367/list.htm" target="_self">招生信息公开</a>
+                          
+                      <em class="menu-switch-arrow"></em>
+                      <ul class="sub-menu">
+                        
+                        <li class="sub-item i7-2-1">
+                          <a class="sub-link" href="/3382/list.htm" target="_self">招生章程及特殊类型招...</a>
+                          
+                        </li>
+                        
+                        <li class="sub-item i7-2-2">
+                          <a class="sub-link" href="/3383/list.htm" target="_self">录取信息查询渠道和办...</a>
+                          
+                        </li>
+                        
+                        <li class="sub-item i7-2-3">
+                          <a class="sub-link" href="/3384/list.htm" target="_self">招生咨询及考生申诉渠...</a>
+                          
+                        </li>
+                        
+                      </ul>
+                      
+                        </li>
+                        
+                        <li class="sub-item i7-3">
+                          <a class="sub-link" href="/1368/list.htm" target="_self">财务信息公开</a>
+                          
+                      <em class="menu-switch-arrow"></em>
+                      <ul class="sub-menu">
+                        
+                        <li class="sub-item i7-3-1">
+                          <a class="sub-link" href="/cwzczd/list.htm" target="_self">财务、资产制度</a>
+                          
+                        </li>
+                        
+                        <li class="sub-item i7-3-2">
+                          <a class="sub-link" href="/xbqyzcwfzwgyzcbzzzdxx/list.htm" target="_self">校办企业资产、负债、...</a>
+                          
+                        </li>
+                        
+                        <li class="sub-item i7-3-3">
+                          <a class="sub-link" href="/szyszbwsrysbwzcysbwczbkzcysb/list.htm" target="_self">收支预算总表、收入预...</a>
+                          
+                        </li>
+                        
+                        <li class="sub-item i7-3-4">
+                          <a class="sub-link" href="/szjszbwsrjsbwzcjsbwczbkzcjsb/list.htm" target="_self">收支决算总表、收入决...</a>
+                          
+                        </li>
+                        
+                        <li class="sub-item i7-3-5">
+                          <a class="sub-link" href="/sfxmwsfyjwsfbzjtsfs/list.htm" target="_self">收费项目、收费依据、...</a>
+                          
+                        </li>
+                        
+                        <li class="sub-item i7-3-6">
+                          <a class="sub-link" href="/ztbjcgqk/list.htm" target="_self">招投标及采购情况</a>
+                          
+                        </li>
+                        
+                      </ul>
+                      
+                        </li>
+                        
+                        <li class="sub-item i7-4">
+                          <a class="sub-link" href="/1369/list.htm" target="_self">人事信息公开</a>
+                          
+                      <em class="menu-switch-arrow"></em>
+                      <ul class="sub-menu">
+                        
+                        <li class="sub-item i7-4-1">
+                          <a class="sub-link" href="/xjldgbshjz/list.htm" target="_self">综合信息</a>
+                          
+                        </li>
+                        
+                        <li class="sub-item i7-4-2">
+                          <a class="sub-link" href="/xnzcgbrmwryzpxx/list.htm" target="_self">人员招聘信息</a>
+                          
+                        </li>
+                        
+                        <li class="sub-item i7-4-3">
+                          <a class="sub-link" href="/xnzcgbrm/list.htm" target="_self">校内中层干部任免</a>
+                          
+                        </li>
+                        
+                        <li class="sub-item i7-4-4">
+                          <a class="sub-link" href="/gwszglypybf/list.htm" target="_self">岗位设置管理与聘用办...</a>
+                          
+                        </li>
+                        
+                        <li class="sub-item i7-4-5">
+                          <a class="sub-link" href="/jzgzyjjbf/list.htm" target="_self">教职工争议解决办法</a>
+                          
+                        </li>
+                        
+                      </ul>
+                      
+                        </li>
+                        
+                        <li class="sub-item i7-5">
+                          <a class="sub-link" href="/1370/list.htm" target="_self">教学信息公开</a>
+                          
+                      <em class="menu-switch-arrow"></em>
+                      <ul class="sub-menu">
+                        
+                        <li class="sub-item i7-5-1">
+                          <a class="sub-link" href="/jbsj/list.htm" target="_self">基本数据</a>
+                          
+                        </li>
+                        
+                        <li class="sub-item i7-5-2">
+                          <a class="sub-link" href="/bkzysz/list.htm" target="_self">本科专业设置</a>
+                          
+                        </li>
+                        
+                        <li class="sub-item i7-5-3">
+                          <a class="sub-link" href="/kkxx/list.htm" target="_self">开课信息</a>
+                          
+                        </li>
+                        
+                        <li class="sub-item i7-5-4">
+                          <a class="sub-link" href="/skxx/list.htm" target="_self">授课信息</a>
+                          
+                        </li>
+                        
+                        <li class="sub-item i7-5-5">
+                          <a class="sub-link" href="/jyzd/list.htm" target="_self">就业指导</a>
+                          
+                        </li>
+                        
+                        <li class="sub-item i7-5-6">
+                          <a class="sub-link" href="/bysdgmwjgwjylwjylx/list.htm" target="_self">毕业生的规模、结构、...</a>
+                          
+                        </li>
+                        
+                        <li class="sub-item i7-5-7">
+                          <a class="sub-link" href="/bysjyzlndbg/list.htm" target="_self">毕业生就业质量年度报...</a>
+                          
+                        </li>
+                        
+                        <li class="sub-item i7-5-8">
+                          <a class="sub-link" href="/ysjyfzndbg/list.htm" target="_self">艺术教育发展年度报告</a>
+                          
+                        </li>
+                        
+                        <li class="sub-item i7-5-9">
+                          <a class="sub-link" href="/bkjxzlbg/list.htm" target="_self">本科教学质量报告</a>
+                          
+                        </li>
+                        
+                      </ul>
+                      
+                        </li>
+                        
+                        <li class="sub-item i7-6">
+                          <a class="sub-link" href="/1371/list.htm" target="_self">学生管理公开</a>
+                          
+                        </li>
+                        
+                        <li class="sub-item i7-7">
+                          <a class="sub-link" href="/1372/list.htm" target="_self">学风建设公开</a>
+                          
+                        </li>
+                        
+                        <li class="sub-item i7-8">
+                          <a class="sub-link" href="/1373/list.htm" target="_self">学位学科信息</a>
+                          
+                        </li>
+                        
+                        <li class="sub-item i7-9">
+                          <a class="sub-link" href="/1374/list.htm" target="_self">对外交流合作</a>
+                          
+                        </li>
+                        
+                        <li class="sub-item i7-10">
+                          <a class="sub-link" href="/xxgkml/list.htm" target="_self">信息公开目录</a>
+                          
+                        </li>
+                        
+                        <li class="sub-item i7-11">
+                          <a class="sub-link" href="/xxgkzn/list.htm" target="_self">信息公开指南</a>
+                          
+                        </li>
+                        
+                        <li class="sub-item i7-12">
+                          <a class="sub-link" href="/ysqgk/list.htm" target="_self">依申请公开</a>
+                          
+                        </li>
+                        
+                      </ul>
+                      
+                    </li>
+
+                    
+                    <li class="menu-item i8">
+                      <a class="menu-link" href="https://www.gdei.edu.cn/xzxx/index.jsp" target="_self">校长信箱</a>
+                      
+                      <em class="menu-switch-arrow"></em>
+                      <ul class="sub-menu">
+                        
+                        <li class="sub-item i8-1">
+                          <a class="sub-link" href="https://www.gdei.edu.cn/xzxx/index.jsp" target="_self">校长信箱</a>
+                          
+                        </li>
+                        
+                        <li class="sub-item i8-2">
+                          <a class="sub-link" href="https://www.gdei.edu.cn/xzxx/indexsj.jsp" target="_self">书记信箱</a>
+                          
+                        </li>
+                        
+                      </ul>
+                      
+                    </li>
+
+                    
+                    <li class="menu-item i9">
+                      <a class="menu-link" href="https://gdeixy.mh.chaoxing.com/" target="_blank">校友之家</a>
+                      
+                    </li>
+
+                    
+                  </ul>
+                  
+                
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!--End||head-->
+  <!--Start||nav-->
+  <div class="wrapper fixbox navbox">
+    <div class="close"></div>
+  </div>
+  <!--End||nav-->
+  <!--Start||focus-->
+  <section class="wp-wrapper" id="container-1">
+    <div class="wp-inner" frag="面板84">
+      <div class="l-banner" frag="窗口84" portletmode="simpleColumnAttri">
+        
+          <img border="0" style="margin: 0 auto" src="" data-imgsrc="/_upload/tpl/01/3a/314/template314/images/list_banner.jpg" />
+        
+      </div>
+    </div>
+  </section>
+  <!--End||focus-->
+  <!--Start||content-->
+  <section class="wrapper" id="l-container">
+    <div class="inner">
+      <div class="mod clearfix">
+        <div class="col_menu_head">
+          <h3 class="col_name" frag="窗口3" portletmode="simpleColumnAnchor">
+            <span class="col_name_text">
+              <span class='Column_Anchor'>信息公开</span>
+            </span>
+          </h3>
+          <div class="col_path" frag="窗口5" portletmode="simpleColumnAttri">
+            <a href="/main.htm" target="_self">首页</a><span class='possplit'>&nbsp;&nbsp;</span><a href="/xxgk/list.htm" target="_self">信息公开</a><span class='possplit'>&nbsp;&nbsp;</span><a href="/1367/list.htm" target="_self">招生信息公开</a><span class='possplit'>&nbsp;&nbsp;</span><a href="/3382/list.htm" target="_self">招生章程及特殊类型招生办法，分批次、分科类招生计划</a>
+          </div>
+          <a class="column-switch"></a>
+        </div>
+        <div class="col_news_list listcon">
+
+          <div class="col_list" frag="窗口4" portletmode="simpleColumnList">
+            
+              
+              <ul class="col_listcolumn list-paddingleft-2">
+                
+                <li class="col_column column-1 ">
+                  <a title="基本信息公开" class="col_item_link " href="/1366/list.htm"><span
+                      class="column-name">基本信息公开</span></a>
+                  
+                </li>
+                
+                <li class="col_column column-2 parent">
+                  <a title="招生信息公开" class="col_item_link parent" href="/1367/list.htm"><span
+                      class="column-name">招生信息公开</span></a>
+                  
+                  <ul class="sub_list list-paddingleft-2">
+                    
+                    <li class="sub-item column-2-1 selected">
+                      <a title="招生章程及特殊类型招生办法，分批次、分科..." class="sub-item-link selected" href="/3382/list.htm" target="_self"><span
+                          class="column-name">招生章程及特殊类型招生办法，分批次、分科...</span></a>
+                      
+                    </li>
+                    
+                    <li class="sub-item column-2-2 ">
+                      <a title="录取信息查询渠道和办法，分批次、分科类录..." class="sub-item-link " href="/3383/list.htm" target="_self"><span
+                          class="column-name">录取信息查询渠道和办法，分批次、分科类录...</span></a>
+                      
+                    </li>
+                    
+                    <li class="sub-item column-2-3 ">
+                      <a title="招生咨询及考生申诉渠道，新生复查期间有关..." class="sub-item-link " href="/3384/list.htm" target="_self"><span
+                          class="column-name">招生咨询及考生申诉渠道，新生复查期间有关...</span></a>
+                      
+                    </li>
+                    
+                  </ul>
+                  
+                </li>
+                
+                <li class="col_column column-3 ">
+                  <a title="财务信息公开" class="col_item_link " href="/1368/list.htm"><span
+                      class="column-name">财务信息公开</span></a>
+                  
+                </li>
+                
+                <li class="col_column column-4 ">
+                  <a title="人事信息公开" class="col_item_link " href="/1369/list.htm"><span
+                      class="column-name">人事信息公开</span></a>
+                  
+                </li>
+                
+                <li class="col_column column-5 ">
+                  <a title="教学信息公开" class="col_item_link " href="/1370/list.htm"><span
+                      class="column-name">教学信息公开</span></a>
+                  
+                </li>
+                
+                <li class="col_column column-6 ">
+                  <a title="学生管理公开" class="col_item_link " href="/1371/list.htm"><span
+                      class="column-name">学生管理公开</span></a>
+                  
+                </li>
+                
+                <li class="col_column column-7 ">
+                  <a title="学风建设公开" class="col_item_link " href="/1372/list.htm"><span
+                      class="column-name">学风建设公开</span></a>
+                  
+                </li>
+                
+                <li class="col_column column-8 ">
+                  <a title="学位学科信息" class="col_item_link " href="/1373/list.htm"><span
+                      class="column-name">学位学科信息</span></a>
+                  
+                </li>
+                
+                <li class="col_column column-9 ">
+                  <a title="对外交流合作" class="col_item_link " href="/1374/list.htm"><span
+                      class="column-name">对外交流合作</span></a>
+                  
+                </li>
+                
+                <li class="col_column column-10 ">
+                  <a title="信息公开目录" class="col_item_link " href="/xxgkml/list.htm"><span
+                      class="column-name">信息公开目录</span></a>
+                  
+                </li>
+                
+                <li class="col_column column-11 ">
+                  <a title="信息公开指南" class="col_item_link " href="/xxgkzn/list.htm"><span
+                      class="column-name">信息公开指南</span></a>
+                  
+                </li>
+                
+                <li class="col_column column-12 ">
+                  <a title="依申请公开" class="col_item_link " href="/ysqgk/list.htm"><span
+                      class="column-name">依申请公开</span></a>
+                  
+                </li>
+                
+              </ul>
+              
+            
+          </div>
+       
+          <div class="listbox" frag="窗口6" portletmode="simpleList">
+            
+              <ul class="news_list list2">
+                
+                <li class="news n1 " img-src="">
+                  <a href="https://book.yunzhan365.com/ubcwl/bnkm/mobile/index.html" target="_blank">
+                    <div class="imgbox">
+                      <div class="news_img"> </div>
+                    </div>
+                    <div class="news_wz">
+                      <div class="news_title line1">广东第二师范学院2025年夏季普通高考招生简章</div>
+                      <div class="news_time">2025-06-19</div>
+                    </div>
+                  </a>
+                </li>
+                
+                <li class="news n2 " img-src="">
+                  <a href="/2025/0527/c3382a101999/page.htm" target="_blank">
+                    <div class="imgbox">
+                      <div class="news_img"> </div>
+                    </div>
+                    <div class="news_wz">
+                      <div class="news_title line1">广东第二师范学院2025年运动训练专业二志愿拟录取名单公示</div>
+                      <div class="news_time">2025-05-28</div>
+                    </div>
+                  </a>
+                </li>
+                
+                <li class="news n3 " img-src="/_upload/article/images/d2/ee/559f954d4486845fc1caea49402e/50c60fae-d475-4dec-93b9-310be7238872.jpg">
+                  <a href="/2025/0522/c3382a102000/page.htm" target="_blank">
+                    <div class="imgbox">
+                      <div class="news_img"><img src='/_upload/article/images/d2/ee/559f954d4486845fc1caea49402e/50c60fae-d475-4dec-93b9-310be7238872.jpg' width='320' /> </div>
+                    </div>
+                    <div class="news_wz">
+                      <div class="news_title line1">广东第二师范学院2025年运动训练专业一志愿拟录取名单公示</div>
+                      <div class="news_time">2025-05-22</div>
+                    </div>
+                  </a>
+                </li>
+                
+                <li class="news n4 " img-src="/_upload/article/images/cd/ad/5e2bc2a24e528b18c884b48a4f5f/e8f23f97-f3ec-4591-b25e-a95b5162a671.jpg">
+                  <a href="/2025/0120/c3382a102007/page.htm" target="_blank">
+                    <div class="imgbox">
+                      <div class="news_img"><img src='/_upload/article/images/cd/ad/5e2bc2a24e528b18c884b48a4f5f/e8f23f97-f3ec-4591-b25e-a95b5162a671.jpg' width='320' /> </div>
+                    </div>
+                    <div class="news_wz">
+                      <div class="news_title line1">广东第二师范学院2025年运动训练专业招生简章</div>
+                      <div class="news_time">2025-01-20</div>
+                    </div>
+                  </a>
+                </li>
+                
+                <li class="news n5 " img-src="/_upload/article/images/31/34/30f7f24642239c53a1537c792f26/c42309ce-7f4b-45de-bea5-b07ee491d3e2.jpg">
+                  <a href="/2025/0107/c3382a102008/page.htm" target="_blank">
+                    <div class="imgbox">
+                      <div class="news_img"><img src='/_upload/article/images/31/34/30f7f24642239c53a1537c792f26/c42309ce-7f4b-45de-bea5-b07ee491d3e2.jpg' width='320' /> </div>
+                    </div>
+                    <div class="news_wz">
+                      <div class="news_title line1">广东第二师范学院2025年普通专升本招生简章</div>
+                      <div class="news_time">2025-01-07</div>
+                    </div>
+                  </a>
+                </li>
+                
+                <li class="news n6 " img-src="/_upload/article/images/fe/fc/0cec31e14b779ce1581a5b894190/ae7ddc34-cebc-421e-b197-dc75f29baa4c.jpg">
+                  <a href="/2025/0107/c3382a102009/page.htm" target="_blank">
+                    <div class="imgbox">
+                      <div class="news_img"><img src='/_upload/article/images/fe/fc/0cec31e14b779ce1581a5b894190/ae7ddc34-cebc-421e-b197-dc75f29baa4c.jpg' width='320' /> </div>
+                    </div>
+                    <div class="news_wz">
+                      <div class="news_title line1">广东第二师范学院2025年退役大学生士兵普通专升本招生简章</div>
+                      <div class="news_time">2025-01-07</div>
+                    </div>
+                  </a>
+                </li>
+                
+                <li class="news n7 " img-src="/_upload/article/images/f8/5c/79a30a5d43c796bb9927fc5749bf/64237380-540a-461c-8d52-d56ef106fe97.jpg">
+                  <a href="/2025/0107/c3382a102010/page.htm" target="_blank">
+                    <div class="imgbox">
+                      <div class="news_img"><img src='/_upload/article/images/f8/5c/79a30a5d43c796bb9927fc5749bf/64237380-540a-461c-8d52-d56ef106fe97.jpg' width='320' /> </div>
+                    </div>
+                    <div class="news_wz">
+                      <div class="news_title line1">广东第二师范学院2025年三二分段专升本招生简章</div>
+                      <div class="news_time">2025-01-07</div>
+                    </div>
+                  </a>
+                </li>
+                
+                <li class="news n8 " img-src="">
+                  <a href="https://book.yunzhan365.com/ubcwl/dazj/mobile/index.html" target="_blank">
+                    <div class="imgbox">
+                      <div class="news_img"> </div>
+                    </div>
+                    <div class="news_wz">
+                      <div class="news_title line1">广东第二师范学院2024年夏季普通高考招生简章</div>
+                      <div class="news_time">2024-06-25</div>
+                    </div>
+                  </a>
+                </li>
+                
+                <li class="news n9 " img-src="/_upload/article/images/ad/39/251ec0ef4b41ab300ab67f9a7455/37b02ce5-c3c4-4894-8e1f-aa377cdb5866.jpg">
+                  <a href="/2024/0111/c3382a91035/page.htm" target="_blank">
+                    <div class="imgbox">
+                      <div class="news_img"><img src='/_upload/article/images/ad/39/251ec0ef4b41ab300ab67f9a7455/37b02ce5-c3c4-4894-8e1f-aa377cdb5866.jpg' width='320' /> </div>
+                    </div>
+                    <div class="news_wz">
+                      <div class="news_title line1">广东第二师范学院2024年退役大学生士兵普通专升本招生简章</div>
+                      <div class="news_time">2024-01-11</div>
+                    </div>
+                  </a>
+                </li>
+                
+                <li class="news n10 " img-src="/_upload/article/images/41/a1/7164ec3646bfb9b91cafdfc358d0/da675925-c42f-476c-bf67-f457bbebbdbc.jpg">
+                  <a href="/2024/0109/c3382a91036/page.htm" target="_blank">
+                    <div class="imgbox">
+                      <div class="news_img"><img src='/_upload/article/images/41/a1/7164ec3646bfb9b91cafdfc358d0/da675925-c42f-476c-bf67-f457bbebbdbc.jpg' width='320' /> </div>
+                    </div>
+                    <div class="news_wz">
+                      <div class="news_title line1">广东第二师范学院2024年普通专升本招生简章</div>
+                      <div class="news_time">2024-01-09</div>
+                    </div>
+                  </a>
+                </li>
+                
+                <li class="news n11 " img-src="/_upload/article/images/b4/c7/e8f5a1ab45a2bd4c591c2ace3a5e/5f7b3fc9-ebfb-4ce8-a8d8-794ad3309066.jpg">
+                  <a href="/2024/0105/c3382a91037/page.htm" target="_blank">
+                    <div class="imgbox">
+                      <div class="news_img"><img src='/_upload/article/images/b4/c7/e8f5a1ab45a2bd4c591c2ace3a5e/5f7b3fc9-ebfb-4ce8-a8d8-794ad3309066.jpg' width='320' /> </div>
+                    </div>
+                    <div class="news_wz">
+                      <div class="news_title line1">广东第二师范学院2024年三二分段专升本招生简章</div>
+                      <div class="news_time">2024-01-05</div>
+                    </div>
+                  </a>
+                </li>
+                
+                <li class="news n12 " img-src="/_upload/article/images/23/28/a4fbba024f39b21d83053dc291c4/0952cfc0-bffc-40d8-8d89-faf7fa37a1b0.jpg">
+                  <a href="/2023/0625/c3382a87366/page.htm" target="_blank">
+                    <div class="imgbox">
+                      <div class="news_img"><img src='/_upload/article/images/23/28/a4fbba024f39b21d83053dc291c4/0952cfc0-bffc-40d8-8d89-faf7fa37a1b0.jpg' width='320' /> </div>
+                    </div>
+                    <div class="news_wz">
+                      <div class="news_title line1">广东第二师范学院2023年夏季普通高考招生简章</div>
+                      <div class="news_time">2023-06-25</div>
+                    </div>
+                  </a>
+                </li>
+                
+                <li class="news n13 " img-src="">
+                  <a href="/2023/1119/c3382a87196/page.htm" target="_blank">
+                    <div class="imgbox">
+                      <div class="news_img"> </div>
+                    </div>
+                    <div class="news_wz">
+                      <div class="news_title line1">招生章程及特殊类型招生办法，分批次、分科类招生计划</div>
+                      <div class="news_time">2023-06-19</div>
+                    </div>
+                  </a>
+                </li>
+                
+                <li class="news n14 " img-src="">
+                  <a href="/2023/0619/c3382a87358/page.htm" target="_blank">
+                    <div class="imgbox">
+                      <div class="news_img"> </div>
+                    </div>
+                    <div class="news_wz">
+                      <div class="news_title line1">广东第二师范学院2023年夏季普通高考招生章程</div>
+                      <div class="news_time">2023-06-19</div>
+                    </div>
+                  </a>
+                </li>
+                
+              </ul>
+            
+ <div id="wp_paging_w6"> 
+<ul class="wp_paging clearfix"> 
+     <li class="pages_count"> 
+         <span class="per_page">每页&nbsp;<em class="per_count">14</em>&nbsp;记录&nbsp;</span> 
+         <span class="all_count">总共&nbsp;<em class="all_count">35</em>&nbsp;记录&nbsp;</span> 
+     </li> 
+     <li class="page_nav"> 
+         <a class="first" href="javascript:void(0);" target="_self"><span>第一页</span></a> 
+         <a class="prev" href="javascript:void(0);" target="_self"><span>&lt;&lt;上一页</span></a> 
+         <a class="next" href="/3382/list2.htm" target="_self"><span>下一页&gt;&gt;</span></a> 
+         <a class="last" href="/3382/list3.htm" target="_self"><span>尾页</span></a> 
+     </li> 
+     <li class="page_jump"> 
+         <span class="pages">页码&nbsp;<em class="curr_page">1</em>/<em class="all_pages">3</em></span> 
+         <span><input class="pageNum" type="text" /><input type="hidden" class="currPageURL" value=""></span></span> 
+         <span><a class="pagingJump" href="javascript:void(0);" target="_self">跳转到&nbsp;</a></span> 
+     </li> 
+</ul> 
+</div> 
+<script type="text/javascript"> 
+     $().ready(function() { 
+         $("#wp_paging_w6 .pagingJump").click(function() { 
+             var pageNum = $("#wp_paging_w6 .pageNum").val(); 
+             if (pageNum === "") { alert('请输入页码！'); return; } 
+             if (isNaN(pageNum) || pageNum <= 0 || pageNum > 3) { alert('请输入正确页码！'); return; } 
+             var reg = new RegExp("/list", "g"); 
+             var url = "/3382/list.htm"; 
+             window.location.href = url.replace(reg, "/list" + pageNum); 
+         }); 
+     }); 
+</script> 
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!--End||content-->
+  <!--Start||footer-->
+  <section class="wrapper footer" id="footer">
+    <div class="inner">
+      <div class="mod">
+        <div class="foot-left " frag="窗口90" portletmode="simpleSiteAttri">
+          <span class="logo"><a href="/main.htm" title="返回广东第二师范学院首页"><img src="/_upload/tpl/01/3a/314/template314/images/logo.svg"
+                  alt="" /></a></span>
+        </div>
+        <div class="foot-center">
+          <div class="contant contant1" frag="窗口91" portletmode="simpleSiteAttri">
+
+            <div class="con">
+    
+ <p>海珠校区：广州市海珠区新港中路351号</p>
+ <p>花都校区：广州市花都区迎宾大道西30号</p>
+<p>培英校区：广州市白云区鹤龙二路1121号广东省培英职业技术学校</p>
+<p>海珠校区邮编：510303</p>
+<p>花都校区邮编：510800</p>
+<p>培英校区邮编：510440</p>     
+            </div>
+          </div>
+
+          <div class="contant contant2">
+
+            <div class="bqimg"><script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript  src='https://dcs.conac.cn/js/nis/44/00/00/cf50407d7829ff0c19a7203723bd6355/12440000455862811X-20005374.js' type='text/javascript'%3E%3C/script%3E"));</script></div>
+            <div class="con">
+              <p>版权所有©广东第二师范学院</p>  <p><a href="https://beian.miit.gov.cn/#/Integrated/recordQuery">粤ICP备12004203号-10</a> 粤公网安备44010502003435号</p>
+            </div>
+          </div>
+
+        </div>
+        <div class="foot-right ">
+          <div class="shares" frag="窗口93">
+            
+              <ul class="news_list">
+                
+                <li class="news n1">
+                  <a class="news_icon"></a>
+                  <div class="imgs"><img src='/_upload/article/images/d0/34/b815ebe14ae2a1715a63af7bcd6d/9b196e87-783c-4c83-8cc4-c7f5d938fe5c_s.jpg' width='320' /></div>
+                </li>
+                
+                <li class="news n2">
+                  <a class="news_icon"></a>
+                  <div class="imgs"><img src='/_upload/article/images/9b/2e/20c5cb304475a4bea18e28117ac1/960e55cc-90e5-4db3-80de-dbf44e928559_s.jpg' width='320' /></div>
+                </li>
+                
+                <li class="news n3">
+                  <a class="news_icon"></a>
+                  <div class="imgs"><img src='/_upload/article/images/c3/46/c97d656046478cb32da53083ee05/bd19496e-a694-4bf1-b729-4e1100bb4ef1_s.jpg' width='320' /></div>
+                </li>
+                
+                <li class="news n4">
+                  <a class="news_icon"></a>
+                  <div class="imgs"><img src='/_upload/article/images/ce/05/9c8353cc4d3bb3438e5dfb63f002/498f8522-dfc6-4c9f-a056-bbf41809301d_s.jpg' width='320' /></div>
+                </li>
+                
+              </ul>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </section>
+  <!--End||footer-->
+</body>
+<script type="text/javascript" id="require" data-src="/_upload/tpl/01/3a/314/template314/js/list" src="/_upload/tpl/01/3a/314/template314/js/lib/require.min.js" defer></script>
+
+</html>
+ <img src="/_visitcount?siteId=4&type=2&columnId=3382" style="display:none" width="0" height="0"/>

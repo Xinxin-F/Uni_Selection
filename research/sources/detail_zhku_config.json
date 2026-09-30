@@ -1,0 +1,6 @@
+{
+  "url": "https://zsb-portal.zhku.edu.cn/ipcofig.js",
+  "text": "var ipConfig = {\n    sch_school_id:'30284',\n    url:'https://study.jobpi.cn/index.php',\n    stu_url:'https://job-web-api.jobpi.cn',\n}",
+  "links": [],
+  "images": []
+}

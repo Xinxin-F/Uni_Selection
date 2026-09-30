@@ -1,0 +1,107 @@
+[
+  {
+    "school": "广东财经大学",
+    "year": 2026,
+    "majors": [
+      "行政管理",
+      "酒店管理",
+      "劳动与社会保障"
+    ],
+    "marketing_eligible": [
+      "酒店管理",
+      "劳动与社会保障"
+    ],
+    "campus": "广州海珠区仑头路21号",
+    "tuition": 5510,
+    "housing": "1200–1600",
+    "source": "https://zsb.gdufe.edu.cn/2025/1223/c3907a232182/page.htm",
+    "verified": "完整目录及前置/地点/收费"
+  },
+  {
+    "school": "广州航海学院",
+    "year": 2026,
+    "majors": [
+      "金融学"
+    ],
+    "marketing_eligible": [
+      "金融学"
+    ],
+    "campus": "黄埔校区，黄埔区红山三路101号",
+    "tuition": 4590,
+    "housing": "740–1700",
+    "source": "https://zsb.gzmtu.edu.cn/info/1165/2155.htm",
+    "verified": "扫描PDF第12页视觉核验"
+  },
+  {
+    "school": "深圳职业技术大学",
+    "year": 2026,
+    "majors": [
+      "护理",
+      "园林景观工程"
+    ],
+    "marketing_eligible": [],
+    "campus": "西丽校区",
+    "tuition": 6000,
+    "housing": "1200–1500",
+    "source": "https://zhaosheng.szpu.edu.cn/info/1018/3200.htm",
+    "verified": "完整目录及前置/地点/收费"
+  },
+  {
+    "school": "深圳技术大学",
+    "year": 2026,
+    "majors": [
+      "药学"
+    ],
+    "marketing_eligible": null,
+    "campus": "学校在坪山区；目录地点待核",
+    "tuition": null,
+    "housing": null,
+    "source": "https://zs.sztu.edu.cn/info/1106/4733.htm",
+    "verified": "正文专业确认；目录附件验证码未读取"
+  },
+  {
+    "school": "广东技术师范大学",
+    "year": 2026,
+    "majors": [
+      "计算机科学与技术（职教师资）",
+      "应用电子技术教育（职教师资）",
+      "会计学"
+    ],
+    "marketing_eligible": [],
+    "campus": "广州校区（未细分）",
+    "tuition": "5710/5710/5050",
+    "housing": "600–1800",
+    "source": "https://bkzs.gpnu.edu.cn/listInfo?id=4719",
+    "verified": "完整目录及前置/收费，实际校区细分待核"
+  },
+  {
+    "school": "仲恺农业工程学院",
+    "year": 2026,
+    "majors": [
+      "生物技术",
+      "林学",
+      "草业科学",
+      "投资学",
+      "社会工作",
+      "行政管理",
+      "水产养殖学",
+      "动物科学",
+      "日语",
+      "环境工程",
+      "资源环境科学",
+      "土地科学与技术",
+      "给排水科学与工程",
+      "土木工程",
+      "城乡规划",
+      "文化产业管理"
+    ],
+    "marketing_eligible": [
+      "投资学"
+    ],
+    "campus": null,
+    "tuition": null,
+    "housing": null,
+    "source": "https://zsb-portal.zhku.edu.cn/details/article?id=689233",
+    "verified": "完整前置及普通批计划；校区/收费待核"
+  }
+]

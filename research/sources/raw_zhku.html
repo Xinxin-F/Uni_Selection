@@ -1,0 +1,61 @@
+<!DOCTYPE html><html lang="zh"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="referrer" content="no-referrer"><meta name="renderer" content="webkit"><meta name="viewport" content="width=device-width,initial-scale=1"><title></title><link href="/css/alumni-0ba7ea19-chunk.css" rel="prefetch"><link href="/css/chunk-29447bce-70695543-chunk.css" rel="prefetch"><link href="/css/common-c315b2cb-chunk.css" rel="prefetch"><link href="/css/details-62b95006-chunk.css" rel="prefetch"><link href="/css/job-7f15bafb-chunk.css" rel="prefetch"><link href="/css/jw-83168ded-chunk.css" rel="prefetch"><link href="/css/list-b9a4c7cc-chunk.css" rel="prefetch"><link href="/css/tpl-8d1b6530-chunk.css" rel="prefetch"><link href="/js/alumni-d76e479f10c759b67f4d-chunk.js" rel="prefetch"><link href="/js/chunk-29447bce-d76e479f10c759b67f4d-chunk.js" rel="prefetch"><link href="/js/common-d76e479f10c759b67f4d-chunk.js" rel="prefetch"><link href="/js/details-d76e479f10c759b67f4d-chunk.js" rel="prefetch"><link href="/js/element-ui-d76e479f10c759b67f4d-chunk.js" rel="prefetch"><link href="/js/html2canvas-d76e479f10c759b67f4d-chunk.js" rel="prefetch"><link href="/js/job-d76e479f10c759b67f4d-chunk.js" rel="prefetch"><link href="/js/jw-d76e479f10c759b67f4d-chunk.js" rel="prefetch"><link href="/js/list-d76e479f10c759b67f4d-chunk.js" rel="prefetch"><link href="/js/tpl-d76e479f10c759b67f4d-chunk.js" rel="prefetch"><link href="/js/vue-puzzle-vcode-d76e479f10c759b67f4d-chunk.js" rel="prefetch"><link href="/js/xgplayer-d76e479f10c759b67f4d-chunk.js" rel="prefetch"><link href="/js/xgplayer-flv.js-d76e479f10c759b67f4d-chunk.js" rel="prefetch"><link href="/css/app-5a3307eb.css" rel="stylesheet"></head><body><script>window.addEventListener('error',(event) => {
+        // ✅ 安全判断：e.target 是否为 DOM 元素
+        let temporaryData = {};
+        if (event.target && event.target instanceof Element) {
+          // 此时 e.target 才可能是 <script>、<link> 等
+          const tagName = event.target.tagName?.toLowerCase(); // 使用可选链确保安全
+  
+          if (tagName === 'script') {
+            temporaryData = {
+              custom_type: 1,
+              custom_name: 'JS 资源加载失败',
+              url: event.target.src,
+              errMessage: event.message,
+              filename: event.filename,
+            }
+            // console.error('【JS 资源加载失败】', event.target.src);
+          } else if (tagName === 'link') {
+            temporaryData = {
+              custom_type: 1,
+              custom_name: 'CSS 资源加载失败',
+              url: event.target.href,
+              errMessage: event.message,
+              filename: event.filename,
+            }
+            // console.error('【CSS 资源加载失败】', event.target.href);
+          } else if (tagName === 'img') {
+            temporaryData = {
+              custom_type: 1,
+              custom_name: '图片资源加载失败',
+              url: event.target.src,
+              errMessage: event.message,
+              filename: event.filename,
+            }
+            // console.error('【图片资源加载失败】', event.target.src);
+          } else {
+            temporaryData = {
+              custom_type: 1,
+              custom_name: '其他资源加载失败',
+              url: event.target.src,
+              errMessage: event.message,
+              filename: event.filename,
+            }
+            // console.warn('【其他资源加载失败】', tagName, event.target);
+          }
+        } else {
+          temporaryData = {
+            custom_type: 1,
+            custom_name: 'JS 运行失败',
+            errMessage: event.message,
+            filename: event.filename,
+          }
+          // ❌ 这不是资源加载错误，可能是 JS 运行时错误
+          // console.warn('【非资源错误】可能是 JS 运行时异常或跨域脚本错误', event.message, event.filename);
+        }
+        if(!window.$errorEmit) {
+          window.errorTemporaryList = [];
+          window.errorTemporaryList.push(temporaryData);
+        }else {
+          window.$errorEmit(temporaryData);
+        }
+      },true)</script><script src="/ipcofig.js"></script><script src="/vue.min.js"></script><script src="/vuex.min.js"></script><script src="/axios.min.js"></script><script src="/vue-router.min.js"></script><script src="/element.js"></script><div id="app"></div><script src="/js/babel-polyfill-d76e479f10c759b67f4d-chunk.js"></script><script src="/js/vue-awesome-swiper-d76e479f10c759b67f4d-chunk.js"></script><script src="/js/app-d76e479f10c759b67f4d.js"></script></body></html>
